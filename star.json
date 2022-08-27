@@ -2303,5 +2303,23 @@
         "Spectral_class": "K0III",
         "Right_ascension": "20.770366666",
         "Declination": "33.972388888"
+    },
+    {
+        "Star_ID": "257",
+        "Star_Name": "Aljanah",
+        "Identity": "Eta Cygni",
+        "Magnitude": "3.85",
+        "Spectral_class": "K0III",
+        "Right_ascension": "19.9384222222",
+        "Declination": "35.083222222"
+    },
+    {
+        "Star_ID": "258",
+        "Star_Name": "Fawaris III",
+        "Identity": "Zeta Cygni",
+        "Magnitude": "3.20",
+        "Spectral_class": "G8III",
+        "Right_ascension": "21.2156055555",
+        "Declination": "30.22658333333"
     }
 ]
