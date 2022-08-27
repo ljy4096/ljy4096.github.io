@@ -1,0 +1,36 @@
+#container{
+width: 800px;
+height:800px;
+background-color: black;
+border-radius: 50%;
+position: relative;
+
+animation: rotate_image 60s linear infinite;
+transform-origin: 50% 50%;
+
+}
+
+@keyframes rotate_image{
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+#wrap{
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.star {
+    width: 20px;
+    height:20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0 0 10px #eeeeee,
+                0 0 20px #eeeeee,
+                0 0 30px #eeeeee;
+
+}

@@ -1,0 +1,2252 @@
+[
+    {
+        "Star_ID": "1",
+        "Star_Name": "Acamar",
+        "Identity": "Theta Eridani",
+        "Magnitude": "3.24",
+        "Spectral_class": "A4III",
+        "Right_ascension": "2.971033333333333",
+        "Declination": "-40.304716666666664"
+    },
+    {
+        "Star_ID": "2",
+        "Star_Name": "Achernar",
+        "Identity": "Alpha Eridani",
+        "Magnitude": "0.46",
+        "Spectral_class": "B3Vpe",
+        "Right_ascension": "1.6285833333333333",
+        "Declination": "-57.236666666666665"
+    },
+    {
+        "Star_ID": "3",
+        "Star_Name": "Achird",
+        "Identity": "Eta Cassiopeiae",
+        "Magnitude": "3.44",
+        "Spectral_class": "F9V+dM0",
+        "Right_ascension": "0.8183333333333334",
+        "Declination": "57.81583333333333"
+    },
+    {
+        "Star_ID": "4",
+        "Star_Name": "Acrab",
+        "Identity": "Beta Scorpii",
+        "Magnitude": "2.62",
+        "Spectral_class": "B1V",
+        "Right_ascension": "16.090616666666666",
+        "Declination": "-19.80555"
+    },
+    {
+        "Star_ID": "5",
+        "Star_Name": "Acrux",
+        "Identity": "Alpha Crucis",
+        "Magnitude": "1.33",
+        "Spectral_class": "B0.5IV",
+        "Right_ascension": "12.4433",
+        "Declination": "-63.09916666666667"
+    },
+    {
+        "Star_ID": "6",
+        "Star_Name": "Acubens",
+        "Identity": "Alpha Cancri",
+        "Magnitude": "4.25",
+        "Spectral_class": "A5m",
+        "Right_ascension": "8.974783333333333",
+        "Declination": "11.857783333333334"
+    },
+    {
+        "Star_ID": "7",
+        "Star_Name": "Adhafera",
+        "Identity": "Zeta Leonis",
+        "Magnitude": "3.44",
+        "Spectral_class": "F0III",
+        "Right_ascension": "10.278166666666667",
+        "Declination": "23.41721666666667"
+    },
+    {
+        "Star_ID": "8",
+        "Star_Name": "Adhara",
+        "Identity": "Epsilon Canis Majoris",
+        "Magnitude": "1.5",
+        "Spectral_class": "B2II",
+        "Right_ascension": "6.977083333333333",
+        "Declination": "-28.972216666666668"
+    },
+    {
+        "Star_ID": "9",
+        "Star_Name": "Ain",
+        "Identity": "Epsilon Tauri",
+        "Magnitude": "3.53",
+        "Spectral_class": "G9.5IIICN0.5",
+        "Right_ascension": "4.47695",
+        "Declination": "19.180283333333332"
+    },
+    {
+        "Star_ID": "10",
+        "Star_Name": "Al Giedi",
+        "Identity": "Alpha Capricorni",
+        "Magnitude": "3.57",
+        "Spectral_class": "G8IIIb",
+        "Right_ascension": "20.300916666666666",
+        "Declination": "-12.544716666666666"
+    },
+    {
+        "Star_ID": "11",
+        "Star_Name": "Alaraph",
+        "Identity": "Beta Virginis",
+        "Magnitude": "3.61",
+        "Spectral_class": "F9V",
+        "Right_ascension": "11.844916666666666",
+        "Declination": "1.7647166666666667"
+    },
+    {
+        "Star_ID": "12",
+        "Star_Name": "Albali",
+        "Identity": "Epsilon Aquarii",
+        "Magnitude": "3.77",
+        "Spectral_class": "A1V",
+        "Right_ascension": "20.794616666666666",
+        "Declination": "-9.495833333333334"
+    },
+    {
+        "Star_ID": "13",
+        "Star_Name": "Albireo",
+        "Identity": "Beta Cygni",
+        "Magnitude": "3.08",
+        "Spectral_class": "K3II+B9.5V",
+        "Right_ascension": "19.512033333333335",
+        "Declination": "27.959716666666665"
+    },
+    {
+        "Star_ID": "14",
+        "Star_Name": "Alchibah",
+        "Identity": "Alpha Corvi",
+        "Magnitude": "4.02",
+        "Spectral_class": "F2III-IV",
+        "Right_ascension": "12.140216666666667",
+        "Declination": "-24.728883333333332"
+    },
+    {
+        "Star_ID": "15",
+        "Star_Name": "Alcor",
+        "Identity": "80 Ursae Majoris",
+        "Magnitude": "4.01",
+        "Spectral_class": "A5V",
+        "Right_ascension": "13.420416666666666",
+        "Declination": "54.98805"
+    },
+    {
+        "Star_ID": "16",
+        "Star_Name": "Alcyone",
+        "Identity": "Eta Tauri",
+        "Magnitude": "2.87",
+        "Spectral_class": "B7IIIe",
+        "Right_ascension": "3.7914166666666667",
+        "Declination": "24.105"
+    },
+    {
+        "Star_ID": "17",
+        "Star_Name": "Aldebaran",
+        "Identity": "Alpha Tauri",
+        "Magnitude": "0.85",
+        "Spectral_class": "K5+III",
+        "Right_ascension": "4.5986666666666665",
+        "Declination": "16.509166666666665"
+    },
+    {
+        "Star_ID": "18",
+        "Star_Name": "Alderamin",
+        "Identity": "Alpha Cephei",
+        "Magnitude": "2.44",
+        "Spectral_class": "A7V",
+        "Right_ascension": "21.309666666666665",
+        "Declination": "62.58555"
+    },
+    {
+        "Star_ID": "19",
+        "Star_Name": "Alfirk",
+        "Identity": "Beta Cephei",
+        "Magnitude": "3.23",
+        "Spectral_class": "B1IV",
+        "Right_ascension": "21.477666666666668",
+        "Declination": "70.56083333333333"
+    },
+    {
+        "Star_ID": "20",
+        "Star_Name": "Algebar",
+        "Identity": "Beta Orionis",
+        "Magnitude": "0.12",
+        "Spectral_class": "B8Ia:",
+        "Right_ascension": "5.2423",
+        "Declination": "-8.201666666666666"
+    },
+    {
+        "Star_ID": "21",
+        "Star_Name": "Algenib",
+        "Identity": "Gamma Pegasi",
+        "Magnitude": "2.83",
+        "Spectral_class": "B2IV",
+        "Right_ascension": "0.22061666666666666",
+        "Declination": "15.183616666666667"
+    },
+    {
+        "Star_ID": "22",
+        "Star_Name": "Algieba",
+        "Identity": "Gamma Leonis",
+        "Magnitude": "2.61",
+        "Spectral_class": "K1-IIIbFe-0.5",
+        "Right_ascension": "10.332866666666666",
+        "Declination": "19.841666666666665"
+    },
+    {
+        "Star_ID": "23",
+        "Star_Name": "Algol",
+        "Identity": "Beta Persei",
+        "Magnitude": "2.12",
+        "Spectral_class": "B8V",
+        "Right_ascension": "3.1361333333333334",
+        "Declination": "40.95555"
+    },
+    {
+        "Star_ID": "24",
+        "Star_Name": "Algorab",
+        "Identity": "Delta Corvi",
+        "Magnitude": "2.95",
+        "Spectral_class": "B9.5V",
+        "Right_ascension": "12.49775",
+        "Declination": "-16.51555"
+    },
+    {
+        "Star_ID": "25",
+        "Star_Name": "Alhena",
+        "Identity": "Gamma Geminorum",
+        "Magnitude": "1.93",
+        "Spectral_class": "A0IV",
+        "Right_ascension": "6.628533333333333",
+        "Declination": "16.399166666666666"
+    },
+    {
+        "Star_ID": "26",
+        "Star_Name": "Alioth",
+        "Identity": "Epsilon Ursae Majoris",
+        "Magnitude": "1.77",
+        "Spectral_class": "A0pCr",
+        "Right_ascension": "12.900466666666667",
+        "Declination": "55.959716666666665"
+    },
+    {
+        "Star_ID": "27",
+        "Star_Name": "Alkaid",
+        "Identity": "Eta Ursae Majoris",
+        "Magnitude": "1.86",
+        "Spectral_class": "B3V",
+        "Right_ascension": "13.792333333333334",
+        "Declination": "49.31333333333333"
+    },
+    {
+        "Star_ID": "28",
+        "Star_Name": "Alkalurops",
+        "Identity": "Mu Boötis",
+        "Magnitude": "4.31",
+        "Spectral_class": "F2IVa",
+        "Right_ascension": "15.408166666666666",
+        "Declination": "37.37721666666667"
+    },
+    {
+        "Star_ID": "29",
+        "Star_Name": "Alkes",
+        "Identity": "Alpha Crateris",
+        "Magnitude": "4.08",
+        "Spectral_class": "K0+III",
+        "Right_ascension": "10.99625",
+        "Declination": "-18.298883333333333"
+    },
+    {
+        "Star_ID": "30",
+        "Star_Name": "Almach",
+        "Identity": "Gamma Andromedae",
+        "Magnitude": "2.26",
+        "Spectral_class": "K3-IIb",
+        "Right_ascension": "2.065",
+        "Declination": "42.32971666666667"
+    },
+    {
+        "Star_ID": "31",
+        "Star_Name": "Almeisan",
+        "Identity": "Gamma Geminorum",
+        "Magnitude": "1.93",
+        "Spectral_class": "A0IV",
+        "Right_ascension": "6.628533333333333",
+        "Declination": "16.399166666666666"
+    },
+    {
+        "Star_ID": "32",
+        "Star_Name": "Alnair",
+        "Identity": "Alpha Gruis",
+        "Magnitude": "1.74",
+        "Spectral_class": "B7IV",
+        "Right_ascension": "22.137216666666667",
+        "Declination": "-46.96111666666667"
+    },
+    {
+        "Star_ID": "33",
+        "Star_Name": "Alnath",
+        "Identity": "Beta Tauri",
+        "Magnitude": "1.65",
+        "Spectral_class": "B7III",
+        "Right_ascension": "5.4382",
+        "Declination": "28.6075"
+    },
+    {
+        "Star_ID": "34",
+        "Star_Name": "Alnilam",
+        "Identity": "Epsilon Orionis",
+        "Magnitude": "1.7",
+        "Spectral_class": "B0Ia",
+        "Right_ascension": "5.60355",
+        "Declination": "-1.20195"
+    },
+    {
+        "Star_ID": "35",
+        "Star_Name": "Alnitak",
+        "Identity": "Zeta Orionis",
+        "Magnitude": "2.05",
+        "Spectral_class": "O9.7Ib",
+        "Right_ascension": "5.6793",
+        "Declination": "-1.9427833333333333"
+    },
+    {
+        "Star_ID": "36",
+        "Star_Name": "Alphard",
+        "Identity": "Alpha Hydrae",
+        "Magnitude": "1.98",
+        "Spectral_class": "K3II-III",
+        "Right_ascension": "9.459783333333334",
+        "Declination": "-8.658616666666667"
+    },
+    {
+        "Star_ID": "37",
+        "Star_Name": "Alphecca",
+        "Identity": "Alpha Coronae Borealis",
+        "Magnitude": "2.23",
+        "Spectral_class": "A0V+G5V",
+        "Right_ascension": "15.578133333333334",
+        "Declination": "26.714716666666668"
+    },
+    {
+        "Star_ID": "38",
+        "Star_Name": "Alpheratz",
+        "Identity": "Alpha Andromedae",
+        "Magnitude": "2.06",
+        "Spectral_class": "B8IVpMnHg",
+        "Right_ascension": "0.1398",
+        "Declination": "29.09055"
+    },
+    {
+        "Star_ID": "39",
+        "Star_Name": "Alrai",
+        "Identity": "Gamma Cephei",
+        "Magnitude": "3.21",
+        "Spectral_class": "K1III-IV",
+        "Right_ascension": "23.655783333333332",
+        "Declination": "77.6325"
+    },
+    {
+        "Star_ID": "40",
+        "Star_Name": "Alsaphi",
+        "Identity": "Sigma Draconis",
+        "Magnitude": "4.68",
+        "Spectral_class": "K0V",
+        "Right_ascension": "19.53933333333333",
+        "Declination": "69.66111666666667"
+    },
+    {
+        "Star_ID": "41",
+        "Star_Name": "Alshain",
+        "Identity": "Beta Aquilae",
+        "Magnitude": "3.71",
+        "Spectral_class": "G8IV",
+        "Right_ascension": "19.921883333333334",
+        "Declination": "6.406666666666666"
+    },
+    {
+        "Star_ID": "42",
+        "Star_Name": "Alsuhail",
+        "Identity": "Lambda Velorum",
+        "Magnitude": "2.21",
+        "Spectral_class": "K4.5Ib-II",
+        "Right_ascension": "9.133283333333333",
+        "Declination": "-43.4325"
+    },
+    {
+        "Star_ID": "43",
+        "Star_Name": "Altair",
+        "Identity": "Alpha Aquilae",
+        "Magnitude": "0.77",
+        "Spectral_class": "A7V",
+        "Right_ascension": "19.846383333333332",
+        "Declination": "8.868333333333334"
+    },
+    {
+        "Star_ID": "44",
+        "Star_Name": "Altais",
+        "Identity": "Delta Draconis",
+        "Magnitude": "3.07",
+        "Spectral_class": "G9III",
+        "Right_ascension": "19.20925",
+        "Declination": "67.66166666666666"
+    },
+    {
+        "Star_ID": "45",
+        "Star_Name": "Alterf",
+        "Identity": "Lambda Leonis",
+        "Magnitude": "4.31",
+        "Spectral_class": "K5III",
+        "Right_ascension": "9.528666666666666",
+        "Declination": "22.96805"
+    },
+    {
+        "Star_ID": "46",
+        "Star_Name": "Aludra",
+        "Identity": "Eta Canis Majoris",
+        "Magnitude": "2.45",
+        "Spectral_class": "B5Ia",
+        "Right_ascension": "7.401583333333333",
+        "Declination": "-29.30305"
+    },
+    {
+        "Star_ID": "47",
+        "Star_Name": "Alula Australis",
+        "Identity": "Zeta Ursae Majoris",
+        "Magnitude": "2.27",
+        "Spectral_class": "A1VpSrSi",
+        "Right_ascension": "13.39875",
+        "Declination": "54.92528333333333"
+    },
+    {
+        "Star_ID": "48",
+        "Star_Name": "Alula Borealis",
+        "Identity": "Nu Ursae Majoris",
+        "Magnitude": "3.48",
+        "Spectral_class": "K3-IIIBa0.3",
+        "Right_ascension": "11.307966666666667",
+        "Declination": "33.094166666666666"
+    },
+    {
+        "Star_ID": "49",
+        "Star_Name": "Alwaid",
+        "Identity": "Beta Draconis",
+        "Magnitude": "2.79",
+        "Spectral_class": "G2Ib-IIa",
+        "Right_ascension": "17.507216666666668",
+        "Declination": "52.301383333333334"
+    },
+    {
+        "Star_ID": "50",
+        "Star_Name": "Alya",
+        "Identity": "Theta Serpentis",
+        "Magnitude": "4.62",
+        "Spectral_class": "A5V",
+        "Right_ascension": "18.937",
+        "Declination": "4.203616666666667"
+    },
+    {
+        "Star_ID": "51",
+        "Star_Name": "Ancha",
+        "Identity": "Theta Aquarii",
+        "Magnitude": "4.16",
+        "Spectral_class": "G8III-IV",
+        "Right_ascension": "22.28055",
+        "Declination": "-7.783333333333333"
+    },
+    {
+        "Star_ID": "52",
+        "Star_Name": "Angetenar",
+        "Identity": "Tau2 Eridani",
+        "Magnitude": "3.69",
+        "Spectral_class": "M3.5IIIaCa-1",
+        "Right_ascension": "3.325283333333333",
+        "Declination": "-21.757783333333332"
+    },
+    {
+        "Star_ID": "53",
+        "Star_Name": "Ankaa",
+        "Identity": "Alpha Phoenicis",
+        "Magnitude": "2.39",
+        "Spectral_class": "K0III",
+        "Right_ascension": "0.43805",
+        "Declination": "-42.30611666666667"
+    },
+    {
+        "Star_ID": "54",
+        "Star_Name": "Antares",
+        "Identity": "Alpha Scorpii",
+        "Magnitude": "0.96",
+        "Spectral_class": "M1.5Iab-Ib+B4Ve",
+        "Right_ascension": "16.490116666666665",
+        "Declination": "-26.43195"
+    },
+    {
+        "Star_ID": "55",
+        "Star_Name": "Arcturus",
+        "Identity": "Alpha Boötis",
+        "Magnitude": "-0.04",
+        "Spectral_class": "K1.5IIIFe-0.5",
+        "Right_ascension": "14.261033333333334",
+        "Declination": "19.1825"
+    },
+    {
+        "Star_ID": "56",
+        "Star_Name": "Arkab",
+        "Identity": "Beta Sagittarii",
+        "Magnitude": "4.01",
+        "Spectral_class": "B9V",
+        "Right_ascension": "19.3773",
+        "Declination": "-44.45888333333333"
+    },
+    {
+        "Star_ID": "57",
+        "Star_Name": "Arneb",
+        "Identity": "Alpha Leporis",
+        "Magnitude": "2.58",
+        "Spectral_class": "F0Ib",
+        "Right_ascension": "5.5455",
+        "Declination": "-17.822216666666666"
+    },
+    {
+        "Star_ID": "58",
+        "Star_Name": "Arrakis",
+        "Identity": "Mu Draconis",
+        "Magnitude": "5.8",
+        "Spectral_class": "F7V",
+        "Right_ascension": "17.0888",
+        "Declination": "54.470283333333334"
+    },
+    {
+        "Star_ID": "59",
+        "Star_Name": "Ascella",
+        "Identity": "Zeta Sagittarii",
+        "Magnitude": "2.6",
+        "Spectral_class": "A2III+A4IV",
+        "Right_ascension": "19.043533333333333",
+        "Declination": "-29.880283333333335"
+    },
+    {
+        "Star_ID": "60",
+        "Star_Name": "Asellus Australis",
+        "Identity": "Delta Cancri",
+        "Magnitude": "3.94",
+        "Spectral_class": "K0III-IIIb",
+        "Right_ascension": "8.74475",
+        "Declination": "18.154166666666665"
+    },
+    {
+        "Star_ID": "61",
+        "Star_Name": "Asellus Borealis",
+        "Identity": "Gamma Cancri",
+        "Magnitude": "4.66",
+        "Spectral_class": "A1IV",
+        "Right_ascension": "8.721416666666666",
+        "Declination": "21.468616666666666"
+    },
+    {
+        "Star_ID": "62",
+        "Star_Name": "Aspidiske",
+        "Identity": "Iota Carinae",
+        "Magnitude": "2.25",
+        "Spectral_class": "A8Ib",
+        "Right_ascension": "9.284833333333333",
+        "Declination": "-59.275283333333334"
+    },
+    {
+        "Star_ID": "63",
+        "Star_Name": "Asterope",
+        "Identity": "21 Tauri",
+        "Magnitude": "5.76",
+        "Spectral_class": "B8V",
+        "Right_ascension": "3.7651166666666667",
+        "Declination": "24.554716666666668"
+    },
+    {
+        "Star_ID": "64",
+        "Star_Name": "Atik",
+        "Identity": "Zeta Persei",
+        "Magnitude": "2.85",
+        "Spectral_class": "B1Ib",
+        "Right_ascension": "3.9022",
+        "Declination": "31.88361666666667"
+    },
+    {
+        "Star_ID": "65",
+        "Star_Name": "Atlas",
+        "Identity": "27 Tauri",
+        "Magnitude": "3.63",
+        "Spectral_class": "B8III",
+        "Right_ascension": "3.819366666666667",
+        "Declination": "24.053333333333335"
+    },
+    {
+        "Star_ID": "66",
+        "Star_Name": "Atria",
+        "Identity": "Alpha Trianguli Australis",
+        "Magnitude": "1.92",
+        "Spectral_class": "K2IIb-IIIa",
+        "Right_ascension": "16.811083333333332",
+        "Declination": "-69.02778333333333"
+    },
+    {
+        "Star_ID": "67",
+        "Star_Name": "Auva",
+        "Identity": "Delta Virginis",
+        "Magnitude": "3.38",
+        "Spectral_class": "M3+III",
+        "Right_ascension": "12.926716666666668",
+        "Declination": "3.3975"
+    },
+    {
+        "Star_ID": "68",
+        "Star_Name": "Avior",
+        "Identity": "Epsilon Carinae",
+        "Magnitude": "1.86",
+        "Spectral_class": "K3III+B2:V",
+        "Right_ascension": "8.375216666666667",
+        "Declination": "-59.50971666666667"
+    },
+    {
+        "Star_ID": "69",
+        "Star_Name": "Azha",
+        "Identity": "Eta Eridani",
+        "Magnitude": "3.89",
+        "Spectral_class": "K1-IIIbBa0.2:",
+        "Right_ascension": "2.9404666666666666",
+        "Declination": "-8.89805"
+    },
+    {
+        "Star_ID": "70",
+        "Star_Name": "Baham",
+        "Identity": "Theta Pegasi",
+        "Magnitude": "3.53",
+        "Spectral_class": "A2Vp",
+        "Right_ascension": "22.17",
+        "Declination": "6.197783333333334"
+    },
+    {
+        "Star_ID": "71",
+        "Star_Name": "Baten Kaitos",
+        "Identity": "Zeta Ceti",
+        "Magnitude": "3.73",
+        "Spectral_class": "K0IIIBa0.1",
+        "Right_ascension": "1.8576666666666668",
+        "Declination": "-10.335"
+    },
+    {
+        "Star_ID": "72",
+        "Star_Name": "Beid",
+        "Identity": "Omicron2 Eridani",
+        "Magnitude": "4.04",
+        "Spectral_class": "F2II-III",
+        "Right_ascension": "4.19775",
+        "Declination": "-6.8375"
+    },
+    {
+        "Star_ID": "73",
+        "Star_Name": "Bellatrix",
+        "Identity": "Gamma Orionis",
+        "Magnitude": "1.64",
+        "Spectral_class": "B2III",
+        "Right_ascension": "5.418866666666666",
+        "Declination": "6.349716666666667"
+    },
+    {
+        "Star_ID": "74",
+        "Star_Name": "Benetnasch",
+        "Identity": "Eta Ursae Majoris",
+        "Magnitude": "1.86",
+        "Spectral_class": "B3V",
+        "Right_ascension": "13.792333333333334",
+        "Declination": "49.31333333333333"
+    },
+    {
+        "Star_ID": "75",
+        "Star_Name": "Betelgeuse",
+        "Identity": "Alpha Orionis",
+        "Magnitude": "0.5",
+        "Spectral_class": "M1-2Ia-Iab",
+        "Right_ascension": "5.919533333333334",
+        "Declination": "7.40695"
+    },
+    {
+        "Star_ID": "76",
+        "Star_Name": "Botein",
+        "Identity": "Delta Arietis",
+        "Magnitude": "4.35",
+        "Spectral_class": "K2III",
+        "Right_ascension": "3.1938333333333335",
+        "Declination": "19.726666666666667"
+    },
+    {
+        "Star_ID": "77",
+        "Star_Name": "Canopus",
+        "Identity": "Alpha Carinae",
+        "Magnitude": "-0.72",
+        "Spectral_class": "F0II",
+        "Right_ascension": "6.3992",
+        "Declination": "-52.69583333333333"
+    },
+    {
+        "Star_ID": "78",
+        "Star_Name": "Capella",
+        "Identity": "Alpha Aurigae",
+        "Magnitude": "0.08",
+        "Spectral_class": "G5IIIe+G0III",
+        "Right_ascension": "5.2781666666666665",
+        "Declination": "45.99805"
+    },
+    {
+        "Star_ID": "79",
+        "Star_Name": "Caph",
+        "Identity": "Beta Cassiopeiae",
+        "Magnitude": "2.27",
+        "Spectral_class": "F2III-IV",
+        "Right_ascension": "0.15296666666666667",
+        "Declination": "59.14971666666667"
+    },
+    {
+        "Star_ID": "80",
+        "Star_Name": "Castor",
+        "Identity": "Alpha Geminorum",
+        "Magnitude": "1.98",
+        "Spectral_class": "A1V",
+        "Right_ascension": "7.576666666666666",
+        "Declination": "31.888333333333332"
+    },
+    {
+        "Star_ID": "81",
+        "Star_Name": "Celaeno",
+        "Identity": "16 Tauri",
+        "Magnitude": "5.46",
+        "Spectral_class": "B7IV",
+        "Right_ascension": "3.7467166666666665",
+        "Declination": "24.28945"
+    },
+    {
+        "Star_ID": "82",
+        "Star_Name": "Celbalrai",
+        "Identity": "Beta Ophiuchi",
+        "Magnitude": "2.77",
+        "Spectral_class": "K2III",
+        "Right_ascension": "17.72455",
+        "Declination": "4.567216666666667"
+    },
+    {
+        "Star_ID": "83",
+        "Star_Name": "Chara",
+        "Identity": "Beta Canem Venaticorum",
+        "Magnitude": "4.26",
+        "Spectral_class": "G0V",
+        "Right_ascension": "12.562366666666666",
+        "Declination": "41.3575"
+    },
+    {
+        "Star_ID": "84",
+        "Star_Name": "Chort",
+        "Identity": "Theta Leonis",
+        "Magnitude": "3.34",
+        "Spectral_class": "A2V",
+        "Right_ascension": "11.237333333333334",
+        "Declination": "15.42945"
+    },
+    {
+        "Star_ID": "85",
+        "Star_Name": "Cor Caroli",
+        "Identity": "Alpha Canem Venaticorum",
+        "Magnitude": "2.9",
+        "Spectral_class": "A0pSiEuHg",
+        "Right_ascension": "12.9338",
+        "Declination": "38.318333333333335"
+    },
+    {
+        "Star_ID": "86",
+        "Star_Name": "Coxa",
+        "Identity": "Theta Leonis",
+        "Magnitude": "3.34",
+        "Spectral_class": "A2V",
+        "Right_ascension": "11.237333333333334",
+        "Declination": "15.42945"
+    },
+    {
+        "Star_ID": "87",
+        "Star_Name": "Cujam",
+        "Identity": "Omega Herculis",
+        "Magnitude": "4.57",
+        "Spectral_class": "B9pCr",
+        "Right_ascension": "16.423616666666668",
+        "Declination": "14.033333333333333"
+    },
+    {
+        "Star_ID": "88",
+        "Star_Name": "Cursa",
+        "Identity": "Beta Eridani",
+        "Magnitude": "2.79",
+        "Spectral_class": "A3III",
+        "Right_ascension": "5.130833333333333",
+        "Declination": "-5.086383333333333"
+    },
+    {
+        "Star_ID": "89",
+        "Star_Name": "Dabih",
+        "Identity": "Beta Capricorni",
+        "Magnitude": "3.08",
+        "Spectral_class": "F8V+A0",
+        "Right_ascension": "20.3502",
+        "Declination": "-14.781383333333334"
+    },
+    {
+        "Star_ID": "90",
+        "Star_Name": "Deneb",
+        "Identity": "Alpha Cygni",
+        "Magnitude": "1.25",
+        "Spectral_class": "A2Ia",
+        "Right_ascension": "20.690533333333335",
+        "Declination": "45.28028333333334"
+    },
+    {
+        "Star_ID": "91",
+        "Star_Name": "Deneb Algiedi",
+        "Identity": "Delta Capricorni",
+        "Magnitude": "2.87",
+        "Spectral_class": "Am",
+        "Right_ascension": "21.784",
+        "Declination": "-16.127216666666666"
+    },
+    {
+        "Star_ID": "92",
+        "Star_Name": "Deneb Kaitos",
+        "Identity": "Beta Ceti",
+        "Magnitude": "2.04",
+        "Spectral_class": "G9.5IIICH-1",
+        "Right_ascension": "0.7265",
+        "Declination": "-17.986666666666668"
+    },
+    {
+        "Star_ID": "93",
+        "Star_Name": "Denebola",
+        "Identity": "Beta Leonis",
+        "Magnitude": "2.14",
+        "Spectral_class": "A3V",
+        "Right_ascension": "11.817666666666666",
+        "Declination": "14.57195"
+    },
+    {
+        "Star_ID": "94",
+        "Star_Name": "Diphda",
+        "Identity": "Beta Ceti",
+        "Magnitude": "2.04",
+        "Spectral_class": "G9.5IIICH-1",
+        "Right_ascension": "0.7265",
+        "Declination": "-17.986666666666668"
+    },
+    {
+        "Star_ID": "95",
+        "Star_Name": "Dnoces",
+        "Identity": "Iota Ursae Majoris",
+        "Magnitude": "3.14",
+        "Spectral_class": "A7IV",
+        "Right_ascension": "8.986783333333333",
+        "Declination": "48.041666666666664"
+    },
+    {
+        "Star_ID": "96",
+        "Star_Name": "Dschubba",
+        "Identity": "Delta Scorpii",
+        "Magnitude": "2.32",
+        "Spectral_class": "B0.3IV",
+        "Right_ascension": "16.00555",
+        "Declination": "-22.621666666666666"
+    },
+    {
+        "Star_ID": "97",
+        "Star_Name": "Dubhe",
+        "Identity": "Alpha Ursae Majoris",
+        "Magnitude": "1.79",
+        "Spectral_class": "K0IIIa",
+        "Right_ascension": "11.062133333333334",
+        "Declination": "61.75083333333333"
+    },
+    {
+        "Star_ID": "98",
+        "Star_Name": "Dziban",
+        "Identity": "Psi Draconis",
+        "Magnitude": "4.58",
+        "Spectral_class": "F5IV-V",
+        "Right_ascension": "17.698966666666667",
+        "Declination": "72.14888333333333"
+    },
+    {
+        "Star_ID": "99",
+        "Star_Name": "Edasich",
+        "Identity": "Iota Draconis",
+        "Magnitude": "3.29",
+        "Spectral_class": "K2III",
+        "Right_ascension": "15.4155",
+        "Declination": "58.966116666666665"
+    },
+    {
+        "Star_ID": "100",
+        "Star_Name": "El Nath",
+        "Identity": "Beta Tauri",
+        "Magnitude": "1.65",
+        "Spectral_class": "B7III",
+        "Right_ascension": "5.4382",
+        "Declination": "28.6075"
+    },
+    {
+        "Star_ID": "101",
+        "Star_Name": "Electra",
+        "Identity": "17 Tauri",
+        "Magnitude": "3.7",
+        "Spectral_class": "B6III",
+        "Right_ascension": "3.747916666666667",
+        "Declination": "24.113333333333333"
+    },
+    {
+        "Star_ID": "102",
+        "Star_Name": "Eltanin",
+        "Identity": "Gamma Draconis",
+        "Magnitude": "2.23",
+        "Spectral_class": "K5III",
+        "Right_ascension": "17.94345",
+        "Declination": "51.488883333333334"
+    },
+    {
+        "Star_ID": "103",
+        "Star_Name": "Enif",
+        "Identity": "Epsilon Pegasi",
+        "Magnitude": "2.39",
+        "Spectral_class": "K2Ib",
+        "Right_ascension": "21.73645",
+        "Declination": "9.875"
+    },
+    {
+        "Star_ID": "104",
+        "Star_Name": "Errai",
+        "Identity": "Gamma Cephei",
+        "Magnitude": "3.21",
+        "Spectral_class": "K1III-IV",
+        "Right_ascension": "23.655783333333332",
+        "Declination": "77.6325"
+    },
+    {
+        "Star_ID": "105",
+        "Star_Name": "Fomalhaut",
+        "Identity": "Alpha Piscis Austrini",
+        "Magnitude": "1.16",
+        "Spectral_class": "A3V",
+        "Right_ascension": "22.960866666666668",
+        "Declination": "-29.622216666666667"
+    },
+    {
+        "Star_ID": "106",
+        "Star_Name": "Furud",
+        "Identity": "Zeta Canis Majoris",
+        "Magnitude": "3.02",
+        "Spectral_class": "B2.5V",
+        "Right_ascension": "6.33855",
+        "Declination": "-30.063333333333333"
+    },
+    {
+        "Star_ID": "107",
+        "Star_Name": "Gacrux",
+        "Identity": "Gamma Crucis",
+        "Magnitude": "1.63",
+        "Spectral_class": "M3.5III",
+        "Right_ascension": "12.519416666666666",
+        "Declination": "-57.11333333333334"
+    },
+    {
+        "Star_ID": "108",
+        "Star_Name": "Gemma",
+        "Identity": "Alpha Coronae Borealis",
+        "Magnitude": "2.23",
+        "Spectral_class": "A0V+G5V",
+        "Right_ascension": "15.578133333333334",
+        "Declination": "26.714716666666668"
+    },
+    {
+        "Star_ID": "109",
+        "Star_Name": "Giauzar",
+        "Identity": "Lambda Draconis",
+        "Magnitude": "3.84",
+        "Spectral_class": "M0IIICa-1",
+        "Right_ascension": "11.523383333333333",
+        "Declination": "69.33111666666667"
+    },
+    {
+        "Star_ID": "110",
+        "Star_Name": "Giedi",
+        "Identity": "Alpha Capricorni",
+        "Magnitude": "3.57",
+        "Spectral_class": "G8IIIb",
+        "Right_ascension": "20.300916666666666",
+        "Declination": "-12.544716666666666"
+    },
+    {
+        "Star_ID": "111",
+        "Star_Name": "Gienah",
+        "Identity": "Gamma Corvi",
+        "Magnitude": "2.59",
+        "Spectral_class": "B8IIIpHgMn",
+        "Right_ascension": "12.26345",
+        "Declination": "-17.54195"
+    },
+    {
+        "Star_ID": "112",
+        "Star_Name": "Gomeisa",
+        "Identity": "Beta Canis Minoris",
+        "Magnitude": "2.9",
+        "Spectral_class": "B8Ve",
+        "Right_ascension": "7.4525",
+        "Declination": "8.28945"
+    },
+    {
+        "Star_ID": "113",
+        "Star_Name": "Graffias",
+        "Identity": "Beta Scorpii",
+        "Magnitude": "2.62",
+        "Spectral_class": "B1V",
+        "Right_ascension": "16.090616666666666",
+        "Declination": "-19.80555"
+    },
+    {
+        "Star_ID": "114",
+        "Star_Name": "Grumium",
+        "Identity": "Xi Draconis",
+        "Magnitude": "3.75",
+        "Spectral_class": "K2-III",
+        "Right_ascension": "17.892133333333334",
+        "Declination": "56.87278333333333"
+    },
+    {
+        "Star_ID": "115",
+        "Star_Name": "Hadar (Agena)",
+        "Identity": "Beta Centauri",
+        "Magnitude": "0.61",
+        "Spectral_class": "B1III",
+        "Right_ascension": "14.063716666666666",
+        "Declination": "-60.37305"
+    },
+    {
+        "Star_ID": "116",
+        "Star_Name": "Hamal",
+        "Identity": "Alpha Arietis",
+        "Magnitude": "2",
+        "Spectral_class": "K2-IIICa-1",
+        "Right_ascension": "2.11955",
+        "Declination": "23.4625"
+    },
+    {
+        "Star_ID": "117",
+        "Star_Name": "Heka",
+        "Identity": "Lambda Orionis",
+        "Magnitude": "3.54",
+        "Spectral_class": "O8III((f))",
+        "Right_ascension": "5.585633333333333",
+        "Declination": "9.934166666666666"
+    },
+    {
+        "Star_ID": "118",
+        "Star_Name": "Homam",
+        "Identity": "Zeta Pegasi",
+        "Magnitude": "3.4",
+        "Spectral_class": "B8V",
+        "Right_ascension": "22.691033333333333",
+        "Declination": "10.831383333333333"
+    },
+    {
+        "Star_ID": "119",
+        "Star_Name": "Izar",
+        "Identity": "Epsilon Boötis",
+        "Magnitude": "2.7",
+        "Spectral_class": "K0-II-III",
+        "Right_ascension": "14.749783333333333",
+        "Declination": "27.074166666666667"
+    },
+    {
+        "Star_ID": "120",
+        "Star_Name": "Jabbah",
+        "Identity": "Nu Scorpii",
+        "Magnitude": "4.01",
+        "Spectral_class": "B3V",
+        "Right_ascension": "16.199916666666667",
+        "Declination": "-19.46055"
+    },
+    {
+        "Star_ID": "121",
+        "Star_Name": "Kaffaljidhm",
+        "Identity": "Gamma Ceti",
+        "Magnitude": "3.47",
+        "Spectral_class": "A3V",
+        "Right_ascension": "2.7216666666666667",
+        "Declination": "3.2358333333333333"
+    },
+    {
+        "Star_ID": "122",
+        "Star_Name": "Kaitain",
+        "Identity": "Alpha Piscium",
+        "Magnitude": "4.33",
+        "Spectral_class": "A0pSiSr",
+        "Right_ascension": "2.034116666666667",
+        "Declination": "2.7636166666666666"
+    },
+    {
+        "Star_ID": "123",
+        "Star_Name": "Kaus Australis",
+        "Identity": "Epsilon Sagittarii",
+        "Magnitude": "1.85",
+        "Spectral_class": "B9.5III",
+        "Right_ascension": "18.402866666666668",
+        "Declination": "-34.38471666666667"
+    },
+    {
+        "Star_ID": "124",
+        "Star_Name": "Kaus Borealis",
+        "Identity": "Lambda Sagittarii",
+        "Magnitude": "2.81",
+        "Spectral_class": "K1+IIIb",
+        "Right_ascension": "18.466166666666666",
+        "Declination": "-25.421666666666667"
+    },
+    {
+        "Star_ID": "125",
+        "Star_Name": "Kaus Media",
+        "Identity": "Delta Sagittarii",
+        "Magnitude": "2.7",
+        "Spectral_class": "K3-IIIa*",
+        "Right_ascension": "18.349916666666665",
+        "Declination": "-29.82805"
+    },
+    {
+        "Star_ID": "126",
+        "Star_Name": "Keid",
+        "Identity": "Omicron2 Eridani",
+        "Magnitude": "4.04",
+        "Spectral_class": "F2II-III",
+        "Right_ascension": "4.19775",
+        "Declination": "-6.8375"
+    },
+    {
+        "Star_ID": "127",
+        "Star_Name": "Kelb al Rai",
+        "Identity": "Beta Ophiuchi",
+        "Magnitude": "2.77",
+        "Spectral_class": "K2III",
+        "Right_ascension": "17.72455",
+        "Declination": "4.567216666666667"
+    },
+    {
+        "Star_ID": "128",
+        "Star_Name": "Kitalpha",
+        "Identity": "Alpha Equulei",
+        "Magnitude": "3.92",
+        "Spectral_class": "G0III+A5V",
+        "Right_ascension": "21.263716666666667",
+        "Declination": "5.2477833333333335"
+    },
+    {
+        "Star_ID": "129",
+        "Star_Name": "Kochab",
+        "Identity": "Beta Ursae Minoris",
+        "Magnitude": "2.08",
+        "Spectral_class": "K4-III",
+        "Right_ascension": "14.845083333333333",
+        "Declination": "74.15555"
+    },
+    {
+        "Star_ID": "130",
+        "Star_Name": "Kornephoros",
+        "Identity": "Beta Herculis",
+        "Magnitude": "2.77",
+        "Spectral_class": "G7IIIa",
+        "Right_ascension": "16.503666666666668",
+        "Declination": "21.489716666666666"
+    },
+    {
+        "Star_ID": "131",
+        "Star_Name": "Kraz",
+        "Identity": "Beta Corvi",
+        "Magnitude": "2.65",
+        "Spectral_class": "G5II",
+        "Right_ascension": "12.573116666666667",
+        "Declination": "-23.39666666666667"
+    },
+    {
+        "Star_ID": "132",
+        "Star_Name": "Kuma",
+        "Identity": "Mu Draconis",
+        "Magnitude": "5.8",
+        "Spectral_class": "F7V",
+        "Right_ascension": "17.0888",
+        "Declination": "54.470283333333334"
+    },
+    {
+        "Star_ID": "133",
+        "Star_Name": "Kurah",
+        "Identity": "Xi Cephei",
+        "Magnitude": "4.29",
+        "Spectral_class": "A3/6Vm",
+        "Right_ascension": "22.063166666666667",
+        "Declination": "64.62778333333333"
+    },
+    {
+        "Star_ID": "134",
+        "Star_Name": "Lesath",
+        "Identity": "Nu Scorpii",
+        "Magnitude": "4.01",
+        "Spectral_class": "B3V",
+        "Right_ascension": "16.199916666666667",
+        "Declination": "-19.46055"
+    },
+    {
+        "Star_ID": "135",
+        "Star_Name": "Maasym",
+        "Identity": "Kappa Herculis",
+        "Magnitude": "5",
+        "Spectral_class": "G8III",
+        "Right_ascension": "16.13458333333333",
+        "Declination": "17.04695"
+    },
+    {
+        "Star_ID": "136",
+        "Star_Name": "Maaz",
+        "Identity": "Epsilon Aurigae",
+        "Magnitude": "2.99",
+        "Spectral_class": "F0Iae+B",
+        "Right_ascension": "5.0328",
+        "Declination": "43.82333333333333"
+    },
+    {
+        "Star_ID": "137",
+        "Star_Name": "Maia",
+        "Identity": "20 Tauri",
+        "Magnitude": "3.87",
+        "Spectral_class": "B8III",
+        "Right_ascension": "3.7637833333333335",
+        "Declination": "24.367783333333332"
+    },
+    {
+        "Star_ID": "138",
+        "Star_Name": "Marfik",
+        "Identity": "Lambda Ophiuchi",
+        "Magnitude": "3.82",
+        "Spectral_class": "A0V+A4V",
+        "Right_ascension": "16.515216666666667",
+        "Declination": "1.9838833333333334"
+    },
+    {
+        "Star_ID": "139",
+        "Star_Name": "Markab",
+        "Identity": "Alpha Pegasi",
+        "Magnitude": "2.49",
+        "Spectral_class": "B9V",
+        "Right_ascension": "23.079366666666665",
+        "Declination": "15.205283333333334"
+    },
+    {
+        "Star_ID": "140",
+        "Star_Name": "Matar",
+        "Identity": "Eta Pegasi",
+        "Magnitude": "2.94",
+        "Spectral_class": "G2II-III+F0V",
+        "Right_ascension": "22.7167",
+        "Declination": "30.221383333333332"
+    },
+    {
+        "Star_ID": "141",
+        "Star_Name": "Mebsuta",
+        "Identity": "Epsilon Geminorum",
+        "Magnitude": "2.98",
+        "Spectral_class": "G8Ib",
+        "Right_ascension": "6.7322",
+        "Declination": "25.131116666666667"
+    },
+    {
+        "Star_ID": "142",
+        "Star_Name": "Megrez",
+        "Identity": "Delta Ursae Majoris",
+        "Magnitude": "3.31",
+        "Spectral_class": "A3V",
+        "Right_ascension": "12.257116666666667",
+        "Declination": "57.0325"
+    },
+    {
+        "Star_ID": "143",
+        "Star_Name": "Meissa",
+        "Identity": "Lambda Orionis",
+        "Magnitude": "3.54",
+        "Spectral_class": "O8III((f))",
+        "Right_ascension": "5.585633333333333",
+        "Declination": "9.934166666666666"
+    },
+    {
+        "Star_ID": "144",
+        "Star_Name": "Mekbuda",
+        "Identity": "Zeta Geminorum",
+        "Magnitude": "3.79",
+        "Spectral_class": "F7-G3Ib",
+        "Right_ascension": "7.068466666666667",
+        "Declination": "20.570283333333332"
+    },
+    {
+        "Star_ID": "145",
+        "Star_Name": "Menkalinan",
+        "Identity": "Beta Aurigae",
+        "Magnitude": "1.9",
+        "Spectral_class": "A2IV",
+        "Right_ascension": "5.992133333333333",
+        "Declination": "44.9475"
+    },
+    {
+        "Star_ID": "146",
+        "Star_Name": "Menkar",
+        "Identity": "Alpha Ceti",
+        "Magnitude": "2.53",
+        "Spectral_class": "M1.5IIIa",
+        "Right_ascension": "3.038",
+        "Declination": "4.089716666666667"
+    },
+    {
+        "Star_ID": "147",
+        "Star_Name": "Menkent",
+        "Identity": "Theta Centauri",
+        "Magnitude": "2.06",
+        "Spectral_class": "K0-IIIb",
+        "Right_ascension": "14.111383333333333",
+        "Declination": "-36.37"
+    },
+    {
+        "Star_ID": "148",
+        "Star_Name": "Menkib",
+        "Identity": "Xi Persei",
+        "Magnitude": "4.04",
+        "Spectral_class": "O7.5III(n)((f))",
+        "Right_ascension": "3.9827500000000002",
+        "Declination": "35.79111666666667"
+    },
+    {
+        "Star_ID": "149",
+        "Star_Name": "Merak",
+        "Identity": "Beta Ursae Majoris",
+        "Magnitude": "2.37",
+        "Spectral_class": "A1V",
+        "Right_ascension": "11.0307",
+        "Declination": "56.3825"
+    },
+    {
+        "Star_ID": "150",
+        "Star_Name": "Merope",
+        "Identity": "23 Tauri",
+        "Magnitude": "4.18",
+        "Spectral_class": "B6IVe",
+        "Right_ascension": "3.772116666666667",
+        "Declination": "23.948333333333334"
+    },
+    {
+        "Star_ID": "151",
+        "Star_Name": "Mesarthim",
+        "Identity": "Gamma Arietis",
+        "Magnitude": "4.75",
+        "Spectral_class": "A1pSi",
+        "Right_ascension": "1.8921666666666668",
+        "Declination": "19.293616666666665"
+    },
+    {
+        "Star_ID": "152",
+        "Star_Name": "Miaplacidus",
+        "Identity": "Beta Carinae",
+        "Magnitude": "1.68",
+        "Spectral_class": "A2IV",
+        "Right_ascension": "9.22",
+        "Declination": "-69.71721666666667"
+    },
+    {
+        "Star_ID": "153",
+        "Star_Name": "Mimosa",
+        "Identity": "Beta Crucis",
+        "Magnitude": "1.25",
+        "Spectral_class": "B0.5III",
+        "Right_ascension": "12.795333333333334",
+        "Declination": "-59.68861666666667"
+    },
+    {
+        "Star_ID": "154",
+        "Star_Name": "Mintaka",
+        "Identity": "Delta Orionis",
+        "Magnitude": "2.23",
+        "Spectral_class": "O9.5II",
+        "Right_ascension": "5.53345",
+        "Declination": "0.29916666666666664"
+    },
+    {
+        "Star_ID": "155",
+        "Star_Name": "Mira",
+        "Identity": "Omicron Ceti",
+        "Magnitude": "3.04",
+        "Spectral_class": "M7IIIe+Bep",
+        "Right_ascension": "2.322416666666667",
+        "Declination": "-2.9775"
+    },
+    {
+        "Star_ID": "156",
+        "Star_Name": "Mirach",
+        "Identity": "Beta Andromedae",
+        "Magnitude": "2.06",
+        "Spectral_class": "M0+IIIa",
+        "Right_ascension": "1.1622",
+        "Declination": "35.62055"
+    },
+    {
+        "Star_ID": "157",
+        "Star_Name": "Mirfak",
+        "Identity": "Alpha Persei",
+        "Magnitude": "1.79",
+        "Spectral_class": "F5Ib",
+        "Right_ascension": "3.4053833333333334",
+        "Declination": "49.86111666666667"
+    },
+    {
+        "Star_ID": "158",
+        "Star_Name": "Mirzam",
+        "Identity": "Beta Canis Majoris",
+        "Magnitude": "1.98",
+        "Spectral_class": "B1II-III",
+        "Right_ascension": "6.378333333333333",
+        "Declination": "-17.955833333333334"
+    },
+    {
+        "Star_ID": "159",
+        "Star_Name": "Mizar",
+        "Identity": "Zeta Ursae Majoris",
+        "Magnitude": "2.27",
+        "Spectral_class": "A1VpSrSi",
+        "Right_ascension": "13.39875",
+        "Declination": "54.92528333333333"
+    },
+    {
+        "Star_ID": "160",
+        "Star_Name": "Mothallah",
+        "Identity": "Alpha Trianguli",
+        "Magnitude": "3.41",
+        "Spectral_class": "F6IV",
+        "Right_ascension": "1.8847",
+        "Declination": "29.578883333333334"
+    },
+    {
+        "Star_ID": "161",
+        "Star_Name": "Muphrid",
+        "Identity": "Eta Boötis",
+        "Magnitude": "2.68",
+        "Spectral_class": "G0IV",
+        "Right_ascension": "13.911416666666666",
+        "Declination": "18.397783333333333"
+    },
+    {
+        "Star_ID": "162",
+        "Star_Name": "Murzim",
+        "Identity": "Beta Canis Majoris",
+        "Magnitude": "1.98",
+        "Spectral_class": "B1II-III",
+        "Right_ascension": "6.378333333333333",
+        "Declination": "-17.955833333333334"
+    },
+    {
+        "Star_ID": "163",
+        "Star_Name": "Muscida",
+        "Identity": "Omicron Ursae Majoris",
+        "Magnitude": "3.36",
+        "Spectral_class": "G5III",
+        "Right_ascension": "8.504416666666666",
+        "Declination": "60.71805"
+    },
+    {
+        "Star_ID": "164",
+        "Star_Name": "Naos",
+        "Identity": "Zeta Puppis",
+        "Magnitude": "2.25",
+        "Spectral_class": "O5f",
+        "Right_ascension": "8.05975",
+        "Declination": "-40.00333333333333"
+    },
+    {
+        "Star_ID": "165",
+        "Star_Name": "Nashira",
+        "Identity": "Gamma Capricorni",
+        "Magnitude": "3.68",
+        "Spectral_class": "F0p",
+        "Right_ascension": "21.6682",
+        "Declination": "-16.662216666666666"
+    },
+    {
+        "Star_ID": "166",
+        "Star_Name": "Nasl",
+        "Identity": "Gamma Sagittarii",
+        "Magnitude": "2.99",
+        "Spectral_class": "K0III",
+        "Right_ascension": "18.0968",
+        "Declination": "-30.424166666666668"
+    },
+    {
+        "Star_ID": "167",
+        "Star_Name": "Nath",
+        "Identity": "Beta Tauri",
+        "Magnitude": "1.65",
+        "Spectral_class": "B7III",
+        "Right_ascension": "5.4382",
+        "Declination": "28.6075"
+    },
+    {
+        "Star_ID": "168",
+        "Star_Name": "Navi",
+        "Identity": "Epsilon Cassiopeiae",
+        "Magnitude": "3.38",
+        "Spectral_class": "B3III",
+        "Right_ascension": "1.9065833333333333",
+        "Declination": "63.67"
+    },
+    {
+        "Star_ID": "169",
+        "Star_Name": "Nekkar",
+        "Identity": "Beta Boötis",
+        "Magnitude": "3.5",
+        "Spectral_class": "G8IIIaBa0.3Fe-0.5",
+        "Right_ascension": "15.03245",
+        "Declination": "40.39055"
+    },
+    {
+        "Star_ID": "170",
+        "Star_Name": "Nihal",
+        "Identity": "Beta Leporis",
+        "Magnitude": "2.84",
+        "Spectral_class": "G5II",
+        "Right_ascension": "5.47075",
+        "Declination": "-20.75945"
+    },
+    {
+        "Star_ID": "171",
+        "Star_Name": "Nodus Secundus",
+        "Identity": "Delta Draconis",
+        "Magnitude": "3.07",
+        "Spectral_class": "G9III",
+        "Right_ascension": "19.20925",
+        "Declination": "67.66166666666666"
+    },
+    {
+        "Star_ID": "172",
+        "Star_Name": "Nunki",
+        "Identity": "Delta Sagittarii",
+        "Magnitude": "2.7",
+        "Spectral_class": "K3-IIIa*",
+        "Right_ascension": "18.349916666666665",
+        "Declination": "-29.82805"
+    },
+    {
+        "Star_ID": "173",
+        "Star_Name": "Nusakan",
+        "Identity": "Beta Coronae Borealis",
+        "Magnitude": "3.68",
+        "Spectral_class": "F0p",
+        "Right_ascension": "15.463799999999999",
+        "Declination": "29.105833333333333"
+    },
+    {
+        "Star_ID": "174",
+        "Star_Name": "Okda",
+        "Identity": "Alpha Piscium",
+        "Magnitude": "4.33",
+        "Spectral_class": "A0pSiSr",
+        "Right_ascension": "2.034116666666667",
+        "Declination": "2.7636166666666666"
+    },
+    {
+        "Star_ID": "175",
+        "Star_Name": "Peacock",
+        "Identity": "Alpha Pavonis",
+        "Magnitude": "1.94",
+        "Spectral_class": "B2IV",
+        "Right_ascension": "20.427466666666668",
+        "Declination": "-56.735"
+    },
+    {
+        "Star_ID": "176",
+        "Star_Name": "Phact",
+        "Identity": "Alpha Columbae",
+        "Magnitude": "2.64",
+        "Spectral_class": "B7IVe",
+        "Right_ascension": "5.6608",
+        "Declination": "-34.07416666666666"
+    },
+    {
+        "Star_ID": "177",
+        "Star_Name": "Phad",
+        "Identity": "Gamma Ursae Majoris",
+        "Magnitude": "2.44",
+        "Spectral_class": "A0Ve",
+        "Right_ascension": "11.897166666666667",
+        "Declination": "53.694716666666665"
+    },
+    {
+        "Star_ID": "178",
+        "Star_Name": "Phecda",
+        "Identity": "Gamma Ursae Majoris",
+        "Magnitude": "2.44",
+        "Spectral_class": "A0Ve",
+        "Right_ascension": "11.897166666666667",
+        "Declination": "53.694716666666665"
+    },
+    {
+        "Star_ID": "179",
+        "Star_Name": "Pherkad",
+        "Identity": "Gamma Ursae Minoris",
+        "Magnitude": "3.05",
+        "Spectral_class": "A3II-III",
+        "Right_ascension": "15.345466666666667",
+        "Declination": "71.83388333333333"
+    },
+    {
+        "Star_ID": "180",
+        "Star_Name": "Pleione",
+        "Identity": "28 Tauri",
+        "Magnitude": "5.09",
+        "Spectral_class": "B8Vpe",
+        "Right_ascension": "3.8197833333333335",
+        "Declination": "24.136666666666667"
+    },
+    {
+        "Star_ID": "181",
+        "Star_Name": "Polaris",
+        "Identity": "Alpha Ursae Minoris",
+        "Magnitude": "2.02",
+        "Spectral_class": "F7:Ib-II",
+        "Right_ascension": "2.5302",
+        "Declination": "89.26416666666667"
+    },
+    {
+        "Star_ID": "182",
+        "Star_Name": "Pollux",
+        "Identity": "Beta Geminorum",
+        "Magnitude": "1.14",
+        "Spectral_class": "K0IIIb",
+        "Right_ascension": "7.75525",
+        "Declination": "28.026116666666667"
+    },
+    {
+        "Star_ID": "183",
+        "Star_Name": "Porrima",
+        "Identity": "Gamma Virginis",
+        "Magnitude": "3.65",
+        "Spectral_class": "F0V",
+        "Right_ascension": "12.694333333333333",
+        "Declination": "-1.44945"
+    },
+    {
+        "Star_ID": "184",
+        "Star_Name": "Procyon",
+        "Identity": "Alpha Canis Minoris",
+        "Magnitude": "0.38",
+        "Spectral_class": "F5IV-V",
+        "Right_ascension": "7.655033333333334",
+        "Declination": "5.225"
+    },
+    {
+        "Star_ID": "185",
+        "Star_Name": "Propus",
+        "Identity": "Eta Geminorum",
+        "Magnitude": "3.28",
+        "Spectral_class": "M3III",
+        "Right_ascension": "6.24795",
+        "Declination": "22.506666666666668"
+    },
+    {
+        "Star_ID": "186",
+        "Star_Name": "Proxima",
+        "Identity": "Alpha Centauri",
+        "Magnitude": "1.33",
+        "Spectral_class": "K1V",
+        "Right_ascension": "14.660033333333333",
+        "Declination": "-60.83555"
+    },
+    {
+        "Star_ID": "187",
+        "Star_Name": "Pulcherrima",
+        "Identity": "Epsilon Boötis",
+        "Magnitude": "2.7",
+        "Spectral_class": "K0-II-III",
+        "Right_ascension": "14.749783333333333",
+        "Declination": "27.074166666666667"
+    },
+    {
+        "Star_ID": "188",
+        "Star_Name": "Rana",
+        "Identity": "Delta Eridani",
+        "Magnitude": "3.54",
+        "Spectral_class": "K0+IV",
+        "Right_ascension": "3.7208",
+        "Declination": "-9.763333333333334"
+    },
+    {
+        "Star_ID": "189",
+        "Star_Name": "Rasalas",
+        "Identity": "Mu Leonis",
+        "Magnitude": "3.88",
+        "Spectral_class": "K2IIICN1Ca1",
+        "Right_ascension": "9.879383333333333",
+        "Declination": "26.00695"
+    },
+    {
+        "Star_ID": "190",
+        "Star_Name": "Rasalgethi",
+        "Identity": "Alpha Herculis",
+        "Magnitude": "3.48",
+        "Spectral_class": "M5Ib-II",
+        "Right_ascension": "17.244133333333334",
+        "Declination": "14.390283333333333"
+    },
+    {
+        "Star_ID": "191",
+        "Star_Name": "Rasalhague",
+        "Identity": "Alpha Ophiuchi",
+        "Magnitude": "2.08",
+        "Spectral_class": "A5III",
+        "Right_ascension": "17.58225",
+        "Declination": "12.56"
+    },
+    {
+        "Star_ID": "192",
+        "Star_Name": "Rastaban",
+        "Identity": "Beta Draconis",
+        "Magnitude": "2.79",
+        "Spectral_class": "G2Ib-IIa",
+        "Right_ascension": "17.507216666666668",
+        "Declination": "52.301383333333334"
+    },
+    {
+        "Star_ID": "193",
+        "Star_Name": "Regor",
+        "Identity": "Gamma Velorum",
+        "Magnitude": "1.78",
+        "Spectral_class": "WC8+O9I",
+        "Right_ascension": "8.158883333333334",
+        "Declination": "-47.336666666666666"
+    },
+    {
+        "Star_ID": "194",
+        "Star_Name": "Regulus",
+        "Identity": "Alpha Leonis",
+        "Magnitude": "1.35",
+        "Spectral_class": "B7V",
+        "Right_ascension": "10.139533333333333",
+        "Declination": "11.967216666666667"
+    },
+    {
+        "Star_ID": "195",
+        "Star_Name": "Rigel",
+        "Identity": "Beta Orionis",
+        "Magnitude": "0.12",
+        "Spectral_class": "B8Ia:",
+        "Right_ascension": "5.2423",
+        "Declination": "-8.201666666666666"
+    },
+    {
+        "Star_ID": "196",
+        "Star_Name": "Rigilkent",
+        "Identity": "Alpha Centauri",
+        "Magnitude": "-0.01",
+        "Spectral_class": "G2V",
+        "Right_ascension": "14.6583",
+        "Declination": "-60.83528333333334"
+    },
+    {
+        "Star_ID": "197",
+        "Star_Name": "Risha",
+        "Identity": "Alpha Piscium",
+        "Magnitude": "4.33",
+        "Spectral_class": "A0pSiSr",
+        "Right_ascension": "2.034116666666667",
+        "Declination": "2.7636166666666666"
+    },
+    {
+        "Star_ID": "198",
+        "Star_Name": "Rotanev",
+        "Identity": "Beta Delphini",
+        "Magnitude": "3.63",
+        "Spectral_class": "F5IV",
+        "Right_ascension": "20.625833333333333",
+        "Declination": "14.595283333333333"
+    },
+    {
+        "Star_ID": "199",
+        "Star_Name": "Rukbah",
+        "Identity": "Delta Cassiopeiae",
+        "Magnitude": "2.68",
+        "Spectral_class": "A5III-IV",
+        "Right_ascension": "1.4302833333333334",
+        "Declination": "60.235283333333335"
+    },
+    {
+        "Star_ID": "200",
+        "Star_Name": "Rukbat",
+        "Identity": "Alpha Sagittarii",
+        "Magnitude": "3.97",
+        "Spectral_class": "B8V",
+        "Right_ascension": "19.398116666666667",
+        "Declination": "-40.61611666666667"
+    },
+    {
+        "Star_ID": "201",
+        "Star_Name": "Sabik",
+        "Identity": "Eta Ophiuchi",
+        "Magnitude": "2.43",
+        "Spectral_class": "A2V",
+        "Right_ascension": "17.172966666666667",
+        "Declination": "-15.724716666666666"
+    },
+    {
+        "Star_ID": "202",
+        "Star_Name": "Sadachbia",
+        "Identity": "Gamma Aquarii",
+        "Magnitude": "3.84",
+        "Spectral_class": "A0V",
+        "Right_ascension": "22.36095",
+        "Declination": "-1.3872166666666668"
+    },
+    {
+        "Star_ID": "203",
+        "Star_Name": "Sadalbari",
+        "Identity": "Mu Pegasi",
+        "Magnitude": "3.48",
+        "Spectral_class": "G8+III",
+        "Right_ascension": "22.833383333333334",
+        "Declination": "24.601666666666667"
+    },
+    {
+        "Star_ID": "204",
+        "Star_Name": "Sadalmelik",
+        "Identity": "Alpha Aquarii",
+        "Magnitude": "2.96",
+        "Spectral_class": "G2Ib",
+        "Right_ascension": "22.096383333333332",
+        "Declination": "0.31971666666666665"
+    },
+    {
+        "Star_ID": "205",
+        "Star_Name": "Sadalsuud",
+        "Identity": "Beta Aquarii",
+        "Magnitude": "2.91",
+        "Spectral_class": "G0Ib",
+        "Right_ascension": "21.525966666666665",
+        "Declination": "-5.571116666666667"
+    },
+    {
+        "Star_ID": "206",
+        "Star_Name": "Sadr",
+        "Identity": "Gamma Cygni",
+        "Magnitude": "2.2",
+        "Spectral_class": "F8Ib",
+        "Right_ascension": "20.370466666666665",
+        "Declination": "40.25666666666667"
+    },
+    {
+        "Star_ID": "207",
+        "Star_Name": "Saiph",
+        "Identity": "Kappa Orionis",
+        "Magnitude": "2.06",
+        "Spectral_class": "B0.5Ia",
+        "Right_ascension": "5.7959499999999995",
+        "Declination": "-9.669716666666666"
+    },
+    {
+        "Star_ID": "208",
+        "Star_Name": "Sarin",
+        "Identity": "Delta Herculis",
+        "Magnitude": "3.14",
+        "Spectral_class": "A3IV",
+        "Right_ascension": "17.250533333333333",
+        "Declination": "24.839166666666667"
+    },
+    {
+        "Star_ID": "209",
+        "Star_Name": "Scheat",
+        "Identity": "Beta Pegasi",
+        "Magnitude": "2.42",
+        "Spectral_class": "M2.5II-III",
+        "Right_ascension": "23.062916666666666",
+        "Declination": "28.08278333333333"
+    },
+    {
+        "Star_ID": "210",
+        "Star_Name": "Schedar",
+        "Identity": "Alpha Cassiopeiae",
+        "Magnitude": "2.23",
+        "Spectral_class": "K0IIIa",
+        "Right_ascension": "0.6751333333333334",
+        "Declination": "56.537216666666666"
+    },
+    {
+        "Star_ID": "211",
+        "Star_Name": "Scutulum",
+        "Identity": "Iota Carinae",
+        "Magnitude": "2.25",
+        "Spectral_class": "A8Ib",
+        "Right_ascension": "9.284833333333333",
+        "Declination": "-59.275283333333334"
+    },
+    {
+        "Star_ID": "212",
+        "Star_Name": "Shaula",
+        "Identity": "Lambda Scorpii",
+        "Magnitude": "1.63",
+        "Spectral_class": "B2IV+B",
+        "Right_ascension": "17.560133333333333",
+        "Declination": "-37.103883333333336"
+    },
+    {
+        "Star_ID": "213",
+        "Star_Name": "Shelyak",
+        "Identity": "Beta Lyrae",
+        "Magnitude": "3.45",
+        "Spectral_class": "B8IIpe",
+        "Right_ascension": "18.834666666666667",
+        "Declination": "33.36278333333333"
+    },
+    {
+        "Star_ID": "214",
+        "Star_Name": "Sheratan",
+        "Identity": "Beta Arietis",
+        "Magnitude": "2.64",
+        "Spectral_class": "A5V",
+        "Right_ascension": "1.9106666666666667",
+        "Declination": "20.80805"
+    },
+    {
+        "Star_ID": "215",
+        "Star_Name": "Sirius",
+        "Identity": "Alpha Canis Majoris",
+        "Magnitude": "-1.46",
+        "Spectral_class": "A1Vm",
+        "Right_ascension": "6.752466666666667",
+        "Declination": "-16.716116666666668"
+    },
+    {
+        "Star_ID": "216",
+        "Star_Name": "Sirrah",
+        "Identity": "Alpha Andromedae",
+        "Magnitude": "2.06",
+        "Spectral_class": "B8IVpMnHg",
+        "Right_ascension": "0.1398",
+        "Declination": "29.09055"
+    },
+    {
+        "Star_ID": "217",
+        "Star_Name": "Skat",
+        "Identity": "Delta Aquarii",
+        "Magnitude": "3.27",
+        "Spectral_class": "A3V",
+        "Right_ascension": "22.910833333333333",
+        "Declination": "-15.820833333333333"
+    },
+    {
+        "Star_ID": "218",
+        "Star_Name": "Spica",
+        "Identity": "Alpha Virginis",
+        "Magnitude": "0.98",
+        "Spectral_class": "B1III-IV+B2V",
+        "Right_ascension": "13.419883333333333",
+        "Declination": "-11.161383333333333"
+    },
+    {
+        "Star_ID": "219",
+        "Star_Name": "Sterope",
+        "Identity": "21 Tauri",
+        "Magnitude": "5.76",
+        "Spectral_class": "B8V",
+        "Right_ascension": "3.7651166666666667",
+        "Declination": "24.554716666666668"
+    },
+    {
+        "Star_ID": "220",
+        "Star_Name": "Sualocin",
+        "Identity": "Beta Delphini",
+        "Magnitude": "3.63",
+        "Spectral_class": "F5IV",
+        "Right_ascension": "20.625833333333333",
+        "Declination": "14.595283333333333"
+    },
+    {
+        "Star_ID": "221",
+        "Star_Name": "Sulaphat",
+        "Identity": "Gamma Lyrae",
+        "Magnitude": "3.24",
+        "Spectral_class": "B9III",
+        "Right_ascension": "18.982383333333335",
+        "Declination": "32.68945"
+    },
+    {
+        "Star_ID": "222",
+        "Star_Name": "Syrma",
+        "Identity": "Iota Virginis",
+        "Magnitude": "4.08",
+        "Spectral_class": "F6III",
+        "Right_ascension": "14.266916666666667",
+        "Declination": "-6.00055"
+    },
+    {
+        "Star_ID": "223",
+        "Star_Name": "Talitha Australis",
+        "Identity": "Kappa Ursae Majoris",
+        "Magnitude": "3.6",
+        "Spectral_class": "A1Vn",
+        "Right_ascension": "9.060416666666667",
+        "Declination": "47.156666666666666"
+    },
+    {
+        "Star_ID": "224",
+        "Star_Name": "Talitha Borealis",
+        "Identity": "Iota Ursae Majoris",
+        "Magnitude": "3.14",
+        "Spectral_class": "A7IV",
+        "Right_ascension": "8.986783333333333",
+        "Declination": "48.041666666666664"
+    },
+    {
+        "Star_ID": "225",
+        "Star_Name": "Tania Australis",
+        "Identity": "Mu Ursae Majoris",
+        "Magnitude": "3.05",
+        "Spectral_class": "M0III",
+        "Right_ascension": "10.372133333333334",
+        "Declination": "41.49945"
+    },
+    {
+        "Star_ID": "226",
+        "Star_Name": "Tania Borealis",
+        "Identity": "Lambda Ursae Majoris",
+        "Magnitude": "3.45",
+        "Spectral_class": "A2IV",
+        "Right_ascension": "10.28495",
+        "Declination": "42.91445"
+    },
+    {
+        "Star_ID": "227",
+        "Star_Name": "Tarazed",
+        "Identity": "Gamma Aquilae",
+        "Magnitude": "2.72",
+        "Spectral_class": "K3II",
+        "Right_ascension": "19.771",
+        "Declination": "10.613333333333333"
+    },
+    {
+        "Star_ID": "228",
+        "Star_Name": "Tarf",
+        "Identity": "Beta Cancri",
+        "Magnitude": "3.52",
+        "Spectral_class": "K4IIIBa0.5",
+        "Right_ascension": "8.27525",
+        "Declination": "9.18555"
+    },
+    {
+        "Star_ID": "229",
+        "Star_Name": "Taygeta",
+        "Identity": "19 Tauri",
+        "Magnitude": "4.3",
+        "Spectral_class": "B6IV",
+        "Right_ascension": "3.7534666666666667",
+        "Declination": "24.467216666666666"
+    },
+    {
+        "Star_ID": "230",
+        "Star_Name": "Tegmine",
+        "Identity": "Mu Cancri",
+        "Magnitude": "5.3",
+        "Spectral_class": "G1IVb",
+        "Right_ascension": "8.129383333333333",
+        "Declination": "21.581666666666667"
+    },
+    {
+        "Star_ID": "231",
+        "Star_Name": "Tejat",
+        "Identity": "Mu Geminorum",
+        "Magnitude": "2.88",
+        "Spectral_class": "M3IIIab",
+        "Right_ascension": "6.382666666666666",
+        "Declination": "22.513616666666667"
+    },
+    {
+        "Star_ID": "232",
+        "Star_Name": "Thuban",
+        "Identity": "Alpha Draconis",
+        "Magnitude": "3.65",
+        "Spectral_class": "A0III",
+        "Right_ascension": "14.073133333333333",
+        "Declination": "64.37583333333333"
+    },
+    {
+        "Star_ID": "233",
+        "Star_Name": "Tsih",
+        "Identity": "Gamma Cassiopeiae",
+        "Magnitude": "2.47",
+        "Spectral_class": "B0IVe",
+        "Right_ascension": "0.9451333333333333",
+        "Declination": "60.71666666666667"
+    },
+    {
+        "Star_ID": "234",
+        "Star_Name": "Tyl",
+        "Identity": "Epsilon Draconis",
+        "Magnitude": "3.83",
+        "Spectral_class": "G7IIIbCN-2",
+        "Right_ascension": "19.802883333333334",
+        "Declination": "70.26778333333333"
+    },
+    {
+        "Star_ID": "235",
+        "Star_Name": "Unukalhai",
+        "Identity": "Alpha Serpentis",
+        "Magnitude": "2.65",
+        "Spectral_class": "K2IIIbCN1",
+        "Right_ascension": "15.7378",
+        "Declination": "6.42555"
+    },
+    {
+        "Star_ID": "236",
+        "Star_Name": "Vega",
+        "Identity": "Alpha Lyrae",
+        "Magnitude": "0.03",
+        "Spectral_class": "A0Va",
+        "Right_ascension": "18.615633333333335",
+        "Declination": "38.78361666666667"
+    },
+    {
+        "Star_ID": "237",
+        "Star_Name": "Vindemiatrix",
+        "Identity": "Epsilon Virginis",
+        "Magnitude": "2.83",
+        "Spectral_class": "G8IIIab",
+        "Right_ascension": "13.036283333333333",
+        "Declination": "10.959166666666667"
+    },
+    {
+        "Star_ID": "238",
+        "Star_Name": "Wasat",
+        "Identity": "Delta Geminorum",
+        "Magnitude": "3.53",
+        "Spectral_class": "F2IV",
+        "Right_ascension": "7.335383333333334",
+        "Declination": "21.982216666666666"
+    },
+    {
+        "Star_ID": "239",
+        "Star_Name": "Wazn",
+        "Identity": "Beta Columbae",
+        "Magnitude": "3.12",
+        "Spectral_class": "K2III",
+        "Right_ascension": "5.849333333333333",
+        "Declination": "-35.76833333333333"
+    },
+    {
+        "Star_ID": "240",
+        "Star_Name": "Wezen",
+        "Identity": "Delta Canis Majoris",
+        "Magnitude": "1.84",
+        "Spectral_class": "F8Ia",
+        "Right_ascension": "7.139866666666666",
+        "Declination": "-26.393333333333334"
+    },
+    {
+        "Star_ID": "241",
+        "Star_Name": "Yed Posterior",
+        "Identity": "Epsilon Ophiuchi",
+        "Magnitude": "3.24",
+        "Spectral_class": "G9.5IIIbFe-0.5",
+        "Right_ascension": "16.305366666666668",
+        "Declination": "-4.6925"
+    },
+    {
+        "Star_ID": "242",
+        "Star_Name": "Yed Prior",
+        "Identity": "Delta Ophiuchi",
+        "Magnitude": "2.74",
+        "Spectral_class": "M0.5III",
+        "Right_ascension": "16.239083333333333",
+        "Declination": "-3.69445"
+    },
+    {
+        "Star_ID": "243",
+        "Star_Name": "Yildun",
+        "Identity": "Delta Ursae Minoris",
+        "Magnitude": "4.36",
+        "Spectral_class": "A1Vn",
+        "Right_ascension": "17.536916666666666",
+        "Declination": "86.58638333333333"
+    },
+    {
+        "Star_ID": "244",
+        "Star_Name": "Zaniah",
+        "Identity": "Epsilon Virginis",
+        "Magnitude": "2.83",
+        "Spectral_class": "G8IIIab",
+        "Right_ascension": "13.036283333333333",
+        "Declination": "10.959166666666667"
+    },
+    {
+        "Star_ID": "245",
+        "Star_Name": "Zaurac",
+        "Identity": "Gamma Eridani",
+        "Magnitude": "2.95",
+        "Spectral_class": "M0.5IIICa-1Cr-1",
+        "Right_ascension": "3.9671666666666665",
+        "Declination": "-13.508616666666667"
+    },
+    {
+        "Star_ID": "246",
+        "Star_Name": "Zavijava",
+        "Identity": "Beta Virginis",
+        "Magnitude": "3.61",
+        "Spectral_class": "F9V",
+        "Right_ascension": "11.844916666666666",
+        "Declination": "1.7647166666666667"
+    },
+    {
+        "Star_ID": "247",
+        "Star_Name": "Zosma",
+        "Identity": "Delta Leonis",
+        "Magnitude": "2.56",
+        "Spectral_class": "A4V",
+        "Right_ascension": "11.235133333333334",
+        "Declination": "20.523616666666666"
+    },
+    {
+        "Star_ID": "248",
+        "Star_Name": "Zubenelgenubi",
+        "Identity": "Alpha Librae",
+        "Magnitude": "2.75",
+        "Spectral_class": "A3IV",
+        "Right_ascension": "14.847966666666666",
+        "Declination": "-16.041666666666668"
+    },
+    {
+        "Star_ID": "249",
+        "Star_Name": "Zubenelhakrabi",
+        "Identity": "Gamma Librae",
+        "Magnitude": "3.91",
+        "Spectral_class": "G8.5III",
+        "Right_ascension": "15.592116666666668",
+        "Declination": "-14.78945"
+    },
+    {
+        "Star_ID": "250",
+        "Star_Name": "Zubeneshamali",
+        "Identity": "Beta Librae",
+        "Magnitude": "2.61",
+        "Spectral_class": "B8V",
+        "Right_ascension": "15.28345",
+        "Declination": "-9.38305"
+    }
+]
