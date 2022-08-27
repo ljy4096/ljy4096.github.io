@@ -1,13 +1,14 @@
+
 #container{
-width: 800px;
-height:800px;
+width: 640px;
+height:640px;
 background-color: black;
 border-radius: 50%;
 position: relative;
-
+/*
 animation: rotate_image 60s linear infinite;
 transform-origin: 50% 50%;
-
+*/
 }
 
 @keyframes rotate_image{
@@ -17,15 +18,15 @@ transform-origin: 50% 50%;
 }
 
 #wrap{
-    height: 100vh;
+    height: 95vh;
     display:flex;
     justify-content: center;
     align-items: center;
 }
 
 .star {
-    width: 20px;
-    height:20px;
+    width: 1.8px;
+    height:1.8px;
     background-color: white;
     border-radius: 50%;
     position: absolute;
