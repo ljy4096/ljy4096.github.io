@@ -1,9 +1,14 @@
 
+body{
+    background-color: #00000fef;
+}
+
 #container{
 width: 640px;
 height:640px;
 background-color: #00000f;
 border-radius: 50%;
+border: 1px solid rgba(255, 255, 255, 0.4);
 position: relative;
 /*
 animation: rotate_image 60s linear infinite;
@@ -24,9 +29,10 @@ transform-origin: 50% 50%;
     align-items: center;
 }
 
+
 .star {
-    width: 1.8px;
-    height:1.8px;
+    width: 1px;
+    height:1px;
     background-color: white;
     border-radius: 50%;
     position: absolute;
@@ -34,4 +40,89 @@ transform-origin: 50% 50%;
                 0 0 20px #eeeeee,
                 0 0 30px #eeeeee;
 
+}
+
+.star:hover {
+    background: rgb(255,23,23);
+}
+
+#searchBox {
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    width: 300px;
+    height:100px;
+    background: #00000fef/*#727272*/;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    margin-top: 5px;
+    font-family: 'Noto Sans';
+    margin-bottom:5px;
+    color: #eeeeee;
+}
+input {
+    width:100px;
+    border-radius: 9px;
+    border: none;
+    height:20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/*
+button {
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  border-radius: 9px;
+  color: #3D3D3D;
+  background: #fff;
+  border: none;
+  box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  height:20px;
+}
+
+button:focus {
+  box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+  background: #eee;
+  outline: 0;
+}*/
+
+select {
+    border-radius: 9px;
+    height: 20px;
+}
+
+/* CSS */
+button {
+  background-color: #FFFFFF;
+  border: 0;
+  border-radius: 9px;
+  color: #111827;
+  font-family: "Noto Sans";
+  font-size: .875rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+  text-align: center;
+  text-decoration: none #D1D5DB solid;
+  text-decoration-thickness: auto;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  height:20px;
+}
+
+button:hover {
+  background-color: #eeeeee;
+}
+
+button:active {
+  background-color: #dddddd;
 }
