@@ -1,13 +1,20 @@
+const Search = ()=>{
+
+  const keyword = document.getElementsByTagName("select")[0].value;
+  
+  keyword == 'star' ? SearchStar() : SearchConstellation();
+};
+
 const SearchStar = ()=>{
     
-    const Value = document.getElementById("searchText").value;
+    const Value = document.getElementById("searchText").value.toLocaleLowerCase();
     const StarTag = document.getElementById(Value);
 
     StarTag.style.backgroundColor = "rgb(255, 23, 23)";
 
 
     setTimeout(()=>{
-        const Value = document.getElementById("searchText").value;
+        const Value = document.getElementById("searchText").value.toLocaleLowerCase();
         const StarTag = document.getElementById(Value);
 
         StarTag.style.backgroundColor = "rgb(255, 255, 255)";
@@ -15,13 +22,55 @@ const SearchStar = ()=>{
     },3000);
 };
 
+const SearchConstellation = ()=>{
+  
+  let Value = document.getElementById("searchText").value.toLocaleLowerCase();
+  constellationData.forEach((e) => 
+  {
+    if (Value == e.kor)
+    {
+      Value = e.eng;
+    }
+  });
 
+  const StarTagArr = document.getElementsByClassName(Value);
+
+  [...StarTagArr].forEach((e)=>e.style.backgroundColor = "rgb(255, 23, 23)");
+
+  setTimeout(()=>{
+    let Value = document.getElementById("searchText").value.toLocaleLowerCase();
+  
+    constellationData.forEach((e) => 
+    {
+      if (Value == e.kor)
+      {
+        Value = e.eng;
+      }
+    });
+
+    const StarTagArr = document.getElementsByClassName(Value);
+  
+    [...StarTagArr].forEach((e)=>e.style.backgroundColor = "rgb(255, 255, 255)");
+
+  },3000);
+};
+
+const DataLender = (date) => {
 fetch('https://ljy4096.github.io/StarMap/star.json')
   .then((response) => response.json())
   .then((data) => {
 
+
     data.forEach((e)=>{
-        const result = getAltAz(e.Right_ascension,e.Declination);
+        let result;
+
+        if (!date)
+        {
+          result = getAltAz(e.Right_ascension, e.Declination);
+        } else
+        {
+          result = getAltAz(e.Right_ascension, e.Declination, date);
+        }
         const x = ((50 - 5*result[0]/9) * Math.cos((270-result[1])*Math.PI/180));
         const y = ((50-5*result[0]/9) * Math.sin((270-result[1])*Math.PI / 180));
 
@@ -29,12 +78,13 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
         let StarTag = document.createElement("div");
 
         StarTag.setAttribute("class","star");
-        StarTag.setAttribute("Id",e.Star_Name);
+        StarTag.setAttribute("Id",e.Star_Name.toLocaleLowerCase());
+        StarTag.classList.add((e.Identity.split(" ")[2] ? e.Identity.split(" ")[1]+"_"+e.Identity.split(" ")[2] : e.Identity.split(" ")[1]).toLocaleLowerCase())
 
         StarTag.style.left = x+50+"%";
         StarTag.style.bottom = y+50+"%";
-        StarTag.style.width = 7-2*e.Magnitude+"px";
-        StarTag.style.height = 7-2*e.Magnitude+"px";
+        StarTag.style.width = 8.6-2.2*e.Magnitude+"px";
+        StarTag.style.height = 8.6-2.2*e.Magnitude+"px";
 
         container.appendChild(StarTag);
     });
@@ -42,13 +92,24 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
   .catch((error) => {
     console.error('실패:', error);
 });
+};
+
+const Reload = () => {
+  let container = document.getElementById("container");
+  while (container.hasChildNodes()) container.removeChild(container.firstChild);
+
+  const data = document.getElementById("dateInput").value+"T"+document.getElementById("timeInput").value;
+
+  DataLender(new Date("T"? new Date : data));
+}
+
   
-  var getAltAz = ((ra, dec) => {
+  var getAltAz = ((ra, dec, date) => {
     const pi = Math.PI;
     const lat = 37; 
     const long = -127;
     
-    let date = new Date();
+    if (!date) date = new Date();
     let alt, az;
 
     let year = date.getUTCFullYear();
@@ -79,3 +140,5 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
     return [alt,az];
     
   });
+
+DataLender();
