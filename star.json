@@ -1027,7 +1027,16 @@
     },
     {
         "Star_ID": "115",
-        "Star_Name": "Hadar (Agena)",
+        "Star_Name": "Hadar",
+        "Identity": "Beta Centauri",
+        "Magnitude": "0.61",
+        "Spectral_class": "B1III",
+        "Right_ascension": "14.063716666666666",
+        "Declination": "-60.37305"
+    },
+    {
+        "Star_ID": "276",
+        "Star_Name": "Agena",
         "Identity": "Beta Centauri",
         "Magnitude": "0.61",
         "Spectral_class": "B1III",
@@ -2277,15 +2286,6 @@
         "Declination": "82.0373055555"
     },
     {
-        "Star_ID": "254",
-        "Star_Name": "Yildun",
-        "Identity": "Delta Ursae Minoris",
-        "Magnitude": "4.35",
-        "Spectral_class": "A1Van",
-        "Right_ascension": "17.5369611111",
-        "Declination": "86.5868333333"
-    },
-{
         "Star_ID": "255",
         "Star_Name": "Fawaris",
         "Identity": "Delta Cygni",
@@ -2306,7 +2306,7 @@
     },
     {
         "Star_ID": "257",
-        "Star_Name": "Aljanah",
+        "Star_Name": "Eta Cygni",
         "Identity": "Eta Cygni",
         "Magnitude": "3.85",
         "Spectral_class": "K0III",
@@ -2393,5 +2393,95 @@
         "Spectral_class": "G9IIIb",
         "Right_ascension": "1.049025",
         "Declination": "7.8903611111111"
+    },
+    {
+        "Star_ID": "267",
+        "Star_Name": "Hassaleh",
+        "Identity": "Iota Aurigae",
+        "Magnitude": "2.65",
+        "Spectral_class": "K3II",
+        "Right_ascension": "4.94989444444444",
+        "Declination": "33.1659722222222"
+    },
+    {
+        "Star_ID": "268",
+        "Star_Name": "Mahasim",
+        "Identity": "Theta Aurigae",
+        "Magnitude": "2.65",
+        "Spectral_class": "A0V",
+        "Right_ascension": "5.9953694444444",
+        "Declination": "37.212194444444"
+    },
+    {
+        "Star_ID": "269",
+        "Star_Name": "Saclateni",
+        "Identity": "Zeta Aurigae",
+        "Magnitude": "3.65",
+        "Spectral_class": "K5II",
+        "Right_ascension": "5.0413055555555",
+        "Declination": "41.075666666"
+    },
+    {
+        "Star_ID": "270",
+        "Star_Name": "Tianguan",
+        "Identity": "Zeta Tauri",
+        "Magnitude": "2.95",
+        "Spectral_class": "B1IV",
+        "Right_ascension": "5.6274138888",
+        "Declination": "21.14244444444"
+    },
+    {
+        "Star_ID": "271",
+        "Star_Name": "Prima Hyadum",
+        "Identity": "Gamma Tauri",
+        "Magnitude": "3.65",
+        "Spectral_class": "G9.5III",
+        "Right_ascension": "4.32994166666",
+        "Declination": "15.6275"
+    },
+    {
+        "Star_ID": "272",
+        "Star_Name": "Secunda Hyadum",
+        "Identity": "61 Tauri",
+        "Magnitude": "3.75",
+        "Spectral_class": "G9.5III",
+        "Right_ascension": "4.38229722222",
+        "Declination": "17.5423333333"
+    },
+    {
+        "Star_ID": "273",
+        "Star_Name": "Chamukuy",
+        "Identity": "78 Tauri",
+        "Magnitude": "3.4",
+        "Spectral_class": "A7III",
+        "Right_ascension": "4.477755555555",
+        "Declination": "15.8706944444"
+    },
+    {
+        "Star_ID": "274",
+        "Star_Name": "Lambda Tauri",
+        "Identity": "Lambda Tauri",
+        "Magnitude": "3.4",
+        "Spectral_class": "B4IV",
+        "Right_ascension": "4.0113361111",
+        "Declination": "12.490277777"
+    },
+    {
+        "Star_ID": "275",
+        "Star_Name": "Omicron Tauri",
+        "Identity": "Omicron Tauri",
+        "Magnitude": "3.6",
+        "Spectral_class": "G6III",
+        "Right_ascension": "3.4135277777",
+        "Declination": "9.02838888"
+    },
+    {
+        "Star_ID": "277",
+        "Star_Name": "Tabit",
+        "Identity": "1 Orionis",
+        "Magnitude": "3.15",
+        "Spectral_class": "F6V",
+        "Right_ascension": "4.83086666666",
+        "Declination": "6.9613611111111116"
     }
 ]
