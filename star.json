@@ -2321,5 +2321,77 @@
         "Spectral_class": "G8III",
         "Right_ascension": "21.2156055555",
         "Declination": "30.22658333333"
+    },
+    {
+        "Star_ID": "259",
+        "Star_Name": "Alrescha",
+        "Identity": "Alpha Piscium",
+        "Magnitude": "4.1",
+        "Spectral_class": "kA0",
+        "Right_ascension": "2.034136111111111",
+        "Declination": "2.7636666666666665"
+    },
+    {
+        "Star_ID": "260",
+        "Star_Name": "Alpherg",
+        "Identity": "Eta Piscium",
+        "Magnitude": "3.8",
+        "Spectral_class": "G7IIIa",
+        "Right_ascension": "1.5247388888888889",
+        "Declination": "15.345777777777778"
+    },
+    {
+        "Star_ID": "261",
+        "Star_Name": "Torcular",
+        "Identity": "Omicron Piscium",
+        "Magnitude": "4.25",
+        "Spectral_class": "G8III",
+        "Right_ascension": "1.7566",
+        "Declination": "9.157944444444444"
+    },
+    {
+        "Star_ID": "262",
+        "Star_Name": "Gamma Piscium",
+        "Identity": "Gamma Piscium",
+        "Magnitude": "3.7",
+        "Spectral_class": "G9III",
+        "Right_ascension": "23.286419444444",
+        "Declination": "3.28275"
+    },
+    {
+        "Star_ID": "263",
+        "Star_Name": "Theta Piscium",
+        "Identity": "Theta Piscium",
+        "Magnitude": "4.25",
+        "Spectral_class": "K0.5III",
+        "Right_ascension": "23.46608611111",
+        "Declination": "6.378666666666666"
+    },
+    {
+        "Star_ID": "264",
+        "Star_Name": "Iota Piscium",
+        "Identity": "Iota Piscium",
+        "Magnitude": "4.1",
+        "Spectral_class": "F7V",
+        "Right_ascension": "23.66600833333333",
+        "Declination": "5.6235"
+    },
+    {
+        "Star_ID": "265",
+        "Star_Name": "Omega Piscium",
+        "Identity": "Omega Piscium",
+        "Magnitude": "4.0",
+        "Spectral_class": "F4V",
+        "Right_ascension": "23.98858888888889",
+        "Declination": "6.8625833333333"
+    },
+    {
+        "Star_ID": "266",
+        "Star_Name": "Epsilon Piscium",
+        "Identity": "Epsilon Piscium",
+        "Magnitude": "4.25",
+        "Spectral_class": "G9IIIb",
+        "Right_ascension": "1.049025",
+        "Declination": "7.8903611111111"
     }
 ]
