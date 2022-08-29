@@ -83,8 +83,8 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
 
         StarTag.style.left = x+50+"%";
         StarTag.style.bottom = y+50+"%";
-        StarTag.style.width = 8.6-2.2*e.Magnitude+"px";
-        StarTag.style.height = 8.6-2.2*e.Magnitude+"px";
+        StarTag.style.width = 9-2.2*e.Magnitude+"px";
+        StarTag.style.height = 9-2.2*e.Magnitude+"px";
 
         container.appendChild(StarTag);
     });
