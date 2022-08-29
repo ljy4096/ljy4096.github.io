@@ -6,17 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Night Sky Map</title>
     <link rel="stylesheet" href = "style.css">
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
 </head>
 <body>
     <div id = "wrap">
-    <div id = "container">
+        <div id = "container"></div>
+        <div id="searchBox">
+            <h2>Search..</h2>
+            <div>
+            <select>
+                <option value = "star">별</option>
+                <option value = "constellation">별자리</option>
+            </select>
+            <input type = "text" id = "searchText">
+            <button id = "button" onclick = "Search()">Search</button>
+            </div>
+            <!--<div>
+                <input type="date" id = "dateInput">
+                <input type="time" id ="timeInput">
+                <button onclick="Reload()">refresh</button>
+            </div>-->
+        </div>
     </div>
-    </div>
-    <input type = "text" id = "searchText">
-    <button onclick = "SearchStar()">Search</button>
-
-    <script src = "script.js">
-
-    </script>
+    <script src = "script.js"></script>
+    <script src = "constellationData.js"></script>
 </body>
 </html>
