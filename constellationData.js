@@ -86,5 +86,9 @@ const constellationData = [
     {
         "eng": "aurigae",
         "kor": "마차부자리"
+    },
+    {
+        "eng": "virginis",
+        "kor": "처녀자리"
     }
 ];
