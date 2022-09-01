@@ -90,5 +90,9 @@ const constellationData = [
     {
         "eng": "virginis",
         "kor": "처녀자리"
+    },
+    {
+        "eng": "aquilae",
+        "kor": "독수리자리"
     }
 ];
