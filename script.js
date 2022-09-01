@@ -7,14 +7,28 @@ const Search = ()=>{
 
 const SearchStar = ()=>{
     
-    const Value = document.getElementById("searchText").value.toLocaleLowerCase();
+    let Value = document.getElementById("searchText").value.toLocaleLowerCase();
+    starData.forEach((e) =>
+    {
+      if (Value == e.kor)
+      {
+        Value = e.eng;
+      }
+    });
     const StarTag = document.getElementById(Value);
 
     StarTag.style.backgroundColor = "rgb(255, 23, 23)";
 
 
     setTimeout(()=>{
-        const Value = document.getElementById("searchText").value.toLocaleLowerCase();
+        let Value = document.getElementById("searchText").value.toLocaleLowerCase();
+        starData.forEach((e) =>
+        {
+          if (Value == e.kor)
+          {
+            Value = e.eng;
+          }
+        });
         const StarTag = document.getElementById(Value);
 
         StarTag.style.backgroundColor = "rgb(255, 255, 255)";
