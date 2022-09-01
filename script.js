@@ -99,7 +99,34 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
         StarTag.style.bottom = y+50+"%";
         StarTag.style.width = 9-2.2*e.Magnitude+"px";
         StarTag.style.height = 9-2.2*e.Magnitude+"px";
-
+        
+                switch (e.Spectral_class[0])
+        {
+          case "O":
+            StarTag.style.backgroundColor = "rgb(180,180,255)";
+            break;
+          case "B":
+            StarTag.style.backgroundColor = "rgb(220,220,255)";
+            break;
+          case "A":
+            StarTag.style.backgroundColor = "rgb(255,255,255)";
+            break;
+          case "F":
+            StarTag.style.backgroundColor = "rgb(255,255,220)";
+            break;
+          case "G":
+            StarTag.style.backgroundColor = "rgb(255,255,180)";
+            break;
+          case "K":
+            StarTag.style.backgroundColor = "rgb(255,210,180)";
+            break;
+          case "M":
+            StarTag.style.backgroundColor = "rgb(255,180,180)";
+            break;
+          default:
+            StarTag.style.backgroundColor = "rgb(255,255,255)";
+        }
+      
         container.appendChild(StarTag);
     });
   })
