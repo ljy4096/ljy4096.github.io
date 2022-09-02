@@ -77,7 +77,7 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
 
     data.forEach((e)=>{
         let result;
-
+      
         if (!date)
         {
           result = getAltAz(e.Right_ascension, e.Declination);
@@ -87,9 +87,12 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
         }
         const x = ((50 - 5*result[0]/9) * Math.cos((270-result[1])*Math.PI/180));
         const y = ((50-5*result[0]/9) * Math.sin((270-result[1])*Math.PI / 180));
-
+        
         let container = document.getElementById("container");
         let StarTag = document.createElement("div");
+        let tooltip = document.createElement("span");
+        tooltip.appendChild(document.createTextNode(e.Star_Name));
+        StarTag.appendChild(tooltip);
 
         StarTag.setAttribute("class","star");
         StarTag.setAttribute("Id",e.Star_Name.toLocaleLowerCase());
@@ -99,8 +102,7 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
         StarTag.style.bottom = y+50+"%";
         StarTag.style.width = 9-2.2*e.Magnitude+"px";
         StarTag.style.height = 9-2.2*e.Magnitude+"px";
-        
-                switch (e.Spectral_class[0])
+        switch (e.Spectral_class[0])
         {
           case "O":
             StarTag.style.backgroundColor = "rgb(180,180,255)";
@@ -126,7 +128,7 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
           default:
             StarTag.style.backgroundColor = "rgb(255,255,255)";
         }
-      
+
         container.appendChild(StarTag);
     });
   })
