@@ -11,6 +11,8 @@ background-color: #00000f;
 border-radius: 50%;
 border: 2px solid rgba(255, 255, 255, 0.4);
 position: relative;
+flex-grow: 0;
+flex-shrink: 0;
 /*
 animation: rotate_image 60s linear infinite;
 transform-origin: 50% 50%;
@@ -22,8 +24,47 @@ transform-origin: 50% 50%;
   width: 300px;
   height:300px;
 }
+#outer, #middle, #inner{
+  opacity: 0;
+}
 }
 
+#outer{
+  width: 480px;
+  height: 480px;
+  top: calc(50% - 242px);
+  left: calc(50% - 242px);
+}
+
+
+#middle{
+  width: 320px;
+  height: 320px;
+  top: calc(50% - 162px);
+  left: calc(50% - 162px);
+  }
+
+#inner{
+  width: 160px;
+  height: 160px;
+  top: calc(50% - 82px);
+  left: calc(50% - 82px);
+  }
+
+.circle{
+  background-color: #00000f;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  position: absolute;
+}
+
+.line {
+  width: 0px;
+  height:240px;
+  background-color: #00000f;
+  border-left: 2px solid rgba(255, 255, 255, 0.2);
+  position: absolute;
+}
 
 #wrap{
   height: 95vh;
@@ -49,7 +90,7 @@ transform-origin: 50% 50%;
   background: rgb(255,23,23);
 }
 
-span {
+.tooltip {
 visibility: hidden;
 width: 100px;
 background-color: #555;
@@ -67,7 +108,7 @@ transition: opacity 0.3s;
 font-family: 'Noto Sans';
 }
 
-span::after {
+.tooltip::after {
 content: "";
 position: absolute;
 top:100%;
@@ -83,8 +124,8 @@ opacity: 0.8  ;
 
 #searchBox {
   position: fixed;
-  top: 50px;
-  left: 50px;
+  top: 8%;
+  left: 5%;
   width: 300px;
   height:100px;
   background: #00000fef/*#727272*/;
@@ -160,4 +201,58 @@ background-color: #eeeeee;
 
 button:active {
 background-color: #dddddd;
+}
+
+#switchDiv {
+  position:fixed;
+  display: inline-block;
+  width: 55px;
+  height: 30px;
+  right: 10%;
+  top:90%;
+}
+  #switchDiv input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+#onfSwitch {
+  position: absolute;
+  cursor: pointer;
+  top:0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+  background-color: #ccc;
+  box-shadow: inset 1px 5px 1px #999;
+  -webkit-transition: 0.4s;
+  transition: 0.5s;
+}
+#onfSwitch::before {
+  position: absolute;
+  content: "";
+  height: 22px;
+  width: 22px;
+  left: 4px;
+  bottom: 4px;
+  background-color: #fff;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  border-radius: 20px;
+}
+
+#switchDiv input:checked + #onfSwitch {
+  background-color: #F2D522;
+  box-shadow: inset 1px 5px 1px #E3AE56;
+}
+
+#switchDiv input:checked + #onfSwitch::before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform:translateX(26px);
+}
+
+#switchDiv input:checked ~ #outer {
+  background-color: dodgerblue;
 }

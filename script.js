@@ -36,6 +36,24 @@ const SearchStar = ()=>{
     },3000);
 };
 
+const lineRender = () =>{
+  const getSine = (value) => {
+    return Math.sin(value);
+  }
+  for (let i = 1; i<12+1; i++) {
+    let container = document.getElementById("container");
+    let line = document.createElement("div");
+    line.setAttribute("class", "line");
+    line.setAttribute("id", "line"+i);
+    line.style.left = "calc(" + 50 + "%" + " + " + 200*Math.sin(Math.PI/6*i) + "px)";
+    line.style.top =  "calc(" + 50 + "%" + " + " + (-(200*Math.cos(Math.PI*i/6))-120) +"px)";
+    line.style.transform = "rotate("+(30*i)+"deg)";
+    line.style.position = "absolute";
+    container.appendChild(line);
+  }
+}
+
+lineRender();
 const SearchConstellation = ()=>{
   
   let Value = document.getElementById("searchText").value.toLocaleLowerCase();
@@ -92,6 +110,7 @@ fetch('https://ljy4096.github.io/StarMap/star.json')
         let StarTag = document.createElement("div");
         let tooltip = document.createElement("span");
         tooltip.appendChild(document.createTextNode(e.Star_Name));
+        tooltip.setAttribute("class", "tooltip");
         StarTag.appendChild(tooltip);
 
         StarTag.setAttribute("class","star");
@@ -183,5 +202,21 @@ const Reload = () => {
     return [alt,az];
     
   });
+let lineOff = 0;
+const lineOnOff = () => {
+  if (!lineOff) {
+    let circle = document.getElementsByClassName("circle");
+    circle.style.opacity = 0;
+    let line = document.getElementsByClassName("line");
+    line.style.opacity = 0;
+  } else {
+    let circle = document.getElementsByClassName("circle");
+    circle.style.opacity = 0.2;
+    let line = document.getElementsByClassName("line");
+    line.style.opacity = 0.2;
+  }
+}
 
-DataLender();
+//const getXY = (alt, azi) => [((50 - 5*result[0]/9) * Math.cos((270-result[1])*Math.PI/180))+50, ((50-5*result[0]/9) * Math.sin((270-result[1])*Math.PI / 180))+50]
+
+DataLender(); 

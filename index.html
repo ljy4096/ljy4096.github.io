@@ -10,7 +10,13 @@
 </head>
 <body>
     <div id = "wrap">
-        <div id = "container"></div>
+        <div id = "container">
+            <div id = "outer" class="circle">
+                <div id = "middle" class="circle">
+                    <div id = "inner" class="circle"></div>
+                </div>
+            </div>
+        </div>
         <div id="searchBox">
             <h2>Search..</h2>
             <div>
@@ -28,6 +34,10 @@
             </div>-->
         </div>
     </div>
+    <label id="switchDiv">
+        <input type="checkbox" id="switch" onclick = "lineOnOff()">
+        <span id = "onfSwitch"></span>
+    </label>
     <script src = "script.js"></script>
     <script src = "starData.js"></script>
     <script src = "constellationData.js"></script>
