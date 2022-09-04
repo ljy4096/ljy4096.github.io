@@ -24,7 +24,7 @@ transform-origin: 50% 50%;
   width: 300px;
   height:300px;
 }
-#outer, #middle, #inner{
+.circle, .line, label{
   opacity: 0;
 }
 }
@@ -54,7 +54,7 @@ transform-origin: 50% 50%;
 .circle{
   background-color: #00000f;
   border-radius: 50%;
-  border: 2px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.15);
   position: absolute;
 }
 
@@ -62,7 +62,7 @@ transform-origin: 50% 50%;
   width: 0px;
   height:240px;
   background-color: #00000f;
-  border-left: 2px solid rgba(255, 255, 255, 0.1);
+  border-left: 2px solid rgba(255, 255, 255, 0.15);
   position: absolute;
 }
 
@@ -120,6 +120,10 @@ border: 5px solid #555 transparent transparent transparent;
 .star:hover span {
 visibility: visible;
 opacity: 0.8  ;
+}
+.gridSwitch:hover span {
+  visibility: visible;
+  opacity: 0.8;
 }
 
 #searchBox {
@@ -206,11 +210,17 @@ background-color: #dddddd;
 #switchDiv {
   position:fixed;
   display: inline-block;
-  width: 55px;
-  height: 30px;
+  width: 60px;
+  height: 60px;
   right: 10%;
-  top:90%;
+  top:86%;
 }
+  #switchDiv img{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 0;
+  }
   #switchDiv input {
     opacity: 0;
     width: 0;
@@ -247,12 +257,12 @@ background-color: #dddddd;
   box-shadow: inset 1px 5px 1px #cfcfcf;
 }
 
+#switchDiv input:checked + img {
+  filter: brightness(50%);
+}
+
 #switchDiv input:checked + #onfSwitch::before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform:translateX(26px);
-}
-
-#switchDiv input:checked ~ #outer {
-  background-color: dodgerblue;
 }
