@@ -54,7 +54,7 @@ transform-origin: 50% 50%;
 .circle{
   background-color: #00000f;
   border-radius: 50%;
-  border: 2px solid rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.1);
   position: absolute;
 }
 
@@ -62,7 +62,7 @@ transform-origin: 50% 50%;
   width: 0px;
   height:240px;
   background-color: #00000f;
-  border-left: 2px solid rgba(255, 255, 255, 0.2);
+  border-left: 2px solid rgba(255, 255, 255, 0.1);
   position: absolute;
 }
 
@@ -224,8 +224,8 @@ background-color: #dddddd;
   right: 0;
   bottom: 0;
   border-radius: 20px;
-  background-color: #ccc;
-  box-shadow: inset 1px 5px 1px #999;
+  background-color: rgb(92, 92, 92);
+  /*box-shadow: inset 1px 5px 1px rgb(67, 67, 67);*/
   -webkit-transition: 0.4s;
   transition: 0.5s;
 }
@@ -243,8 +243,8 @@ background-color: #dddddd;
 }
 
 #switchDiv input:checked + #onfSwitch {
-  background-color: #F2D522;
-  box-shadow: inset 1px 5px 1px #E3AE56;
+  background-color: #cfcfcf;
+  box-shadow: inset 1px 5px 1px #cfcfcf;
 }
 
 #switchDiv input:checked + #onfSwitch::before {

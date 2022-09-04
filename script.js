@@ -206,14 +206,28 @@ let lineOff = 0;
 const lineOnOff = () => {
   if (!lineOff) {
     let circle = document.getElementsByClassName("circle");
-    circle.style.opacity = 0;
+    Array.from(circle).forEach((e) =>
+    {
+      e.style.visibility = "hidden";
+    });
     let line = document.getElementsByClassName("line");
-    line.style.opacity = 0;
+    Array.from(line).forEach((e)=>
+    {
+      e.style.visibility = "hidden";
+    });
+    lineOff = 1;
   } else {
     let circle = document.getElementsByClassName("circle");
-    circle.style.opacity = 0.2;
+    Array.from(circle).forEach((e) =>
+    {
+      e.style.visibility = "visible";
+    });
     let line = document.getElementsByClassName("line");
-    line.style.opacity = 0.2;
+    Array.from(line).forEach((e)=>
+    {
+      e.style.visibility = "visible";
+    });
+    lineOff = 0;
   }
 }
 
