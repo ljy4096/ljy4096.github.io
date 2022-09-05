@@ -230,6 +230,10 @@ const lineOnOff = () => {
     lineOff = 0;
   }
 }
+const changeTooltip = () => {
+  let button = document.getElementById("gridTooltip");
+  button.innerHTML = lineOff ? "Show Grid" : "Hide Grid";
+}
 
 //const getXY = (alt, azi) => [((50 - 5*result[0]/9) * Math.cos((270-result[1])*Math.PI/180))+50, ((50-5*result[0]/9) * Math.sin((270-result[1])*Math.PI / 180))+50]
 
