@@ -88,7 +88,7 @@ const SearchConstellation = ()=>{
 };
 
 const DataLender = (date) => {
-fetch('https://ljy4096.github.io/StarMap/star.json')
+fetch('https://ljy4096.github.io/star.json')
   .then((response) => response.json())
   .then((data) => {
 
